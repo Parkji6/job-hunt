@@ -209,6 +209,15 @@
         .tier-2 { background: #fef3c7; color: #b45309; }
         .tier-3 { background: #e0e7ff; color: var(--primary); }
 
+        .fetch-date {
+            display: inline-block;
+            padding: 4px 8px;
+            background: #f3f4f6;
+            border-radius: 4px;
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
         .job-description {
             color: var(--text-muted);
             font-size: 14px;
@@ -250,6 +259,15 @@
         }
 
         .empty-state {
+            background: var(--surface);
+            border: 2px dashed var(--border);
+            border-radius: 8px;
+            padding: 40px 20px;
+            text-align: center;
+            color: var(--text-muted);
+        }
+
+        .loading-state {
             background: var(--surface);
             border: 2px dashed var(--border);
             border-radius: 8px;
@@ -305,6 +323,43 @@
             font-size: 12px;
         }
 
+        .filter-section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+
+        .filter-section h3 {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .filter-options {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 6px 12px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text);
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+
+        .filter-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
         @media (max-width: 768px) {
             .job-header {
                 flex-direction: column;
@@ -323,41 +378,25 @@
 <body>
     <div class="container">
         <header>
-            <h1>🎯 Job Discovery Dashboard</h1>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+                <h1>🎯 Job Discovery Dashboard</h1>
+                <button onclick="refreshDashboard()" style="padding: 8px 16px; background: #2563eb; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 500;">🔄 Refresh</button>
+            </div>
             <div class="header-meta">
-                <span>Last updated: <strong id="lastUpdated">Never (awaiting first run)</strong></span>
-                <span>Next refresh: <strong>8:00 AM daily</strong></span>
-                <span>Available jobs: <strong id="totalJobs">0</strong></span>
+                <span>Total jobs: <strong id="totalJobs">0</strong></span>
+                <span>Data sources: <strong>5 platforms</strong></span>
+                <span>Last refresh: <strong id="lastUpdated">Loading...</strong></span>
             </div>
         </header>
 
         <div class="refresh-note">
-            ℹ️ This dashboard updates automatically every day at 8:00 AM with job opportunities matching your criteria. When you click "Deep Dive" on any role, it triggers the full profile analysis skill to provide detailed gap analysis, resume tailoring, and interview prep.
+            ℹ️ This dashboard accumulates job opportunities daily at 8:00 AM. All jobs are kept with their fetch date. Click the Refresh button to load the latest data, or it will auto-update via Vercel deployment after each daily discovery run.
         </div>
 
-        <div class="source-breakdown">
-            <h3>📊 Today's Sources Breakdown</h3>
-            <div class="source-items">
-                <div class="source-item">
-                    <div class="source-name">LinkedIn</div>
-                    <div class="source-count" id="src-linkedin">0 jobs</div>
-                </div>
-                <div class="source-item">
-                    <div class="source-name">RemoteOK</div>
-                    <div class="source-count" id="src-remote">0 jobs</div>
-                </div>
-                <div class="source-item">
-                    <div class="source-name">Google Jobs</div>
-                    <div class="source-count" id="src-google">0 jobs</div>
-                </div>
-                <div class="source-item">
-                    <div class="source-name">Wellfound</div>
-                    <div class="source-count" id="src-wellfound">0 jobs</div>
-                </div>
-                <div class="source-item">
-                    <div class="source-name">EU Job Boards</div>
-                    <div class="source-count" id="src-eu">0 jobs</div>
-                </div>
+        <div class="filter-section">
+            <h3>📅 Filter by Fetch Date</h3>
+            <div class="filter-options" id="dateFilters">
+                <button class="filter-btn active" onclick="filterByDate('all')">All Dates</button>
             </div>
         </div>
 
@@ -387,39 +426,114 @@
         </div>
 
         <div id="jobsList" class="jobs-list">
-            <div class="empty-state">
-                <p>🚀 Ready to find your next opportunity!</p>
-                <p style="font-size: 13px; margin-top: 8px;">The dashboard will automatically populate with job opportunities starting tomorrow morning at 8:00 AM.</p>
-                <p style="font-size: 12px; color: var(--text-muted); margin-top: 8px;">Monitoring: LinkedIn, RemoteOK, Google Jobs, Wellfound, and European job boards</p>
+            <div class="loading-state">
+                <p>📊 Loading job opportunities...</p>
             </div>
         </div>
     </div>
 
     <script>
-        // Mock data for testing
-        const mockJobs = [
-            {
-                id: "job-001",
-                title: "Chief Marketing Officer",
-                company: "TechFlow GmbH",
-                location: "Berlin, Germany (Hybrid)",
-                tier: "tier-2",
-                score: 92,
-                summary: "Lead marketing strategy for Series B SaaS. $10M+ budget, 15-person team.",
-                reason: "Perfect CMO match at growth-stage company with European hybrid option",
-                posted: "2 days ago",
-                source: "LinkedIn",
-                link: "#"
-            }
-        ];
+        let allJobs = [];
+        let currentFilter = 'all';
+        let currentDateFilter = 'all';
 
-        let allJobs = [...mockJobs];
+        // Fetch all job data files
+        async function loadJobData() {
+            try {
+                // Try to fetch all job data files
+                const response = await fetch('../job-discovery-data/');
+
+                // If that doesn't work, try loading specific dates
+                const jobFiles = [];
+
+                // We'll try to load the most recent files
+                const dates = getDatesToTry();
+
+                for (const date of dates) {
+                    try {
+                        const fileResponse = await fetch(`../job-discovery-data/${date}-jobs.json`);
+                        if (fileResponse.ok) {
+                            const data = await fileResponse.json();
+                            if (data.jobs) {
+                                // Add fetch date to each job
+                                data.jobs.forEach(job => {
+                                    job.fetch_date = date;
+                                });
+                                allJobs = allJobs.concat(data.jobs);
+                            }
+                        }
+                    } catch (e) {
+                        // File doesn't exist, continue
+                    }
+                }
+
+                if (allJobs.length === 0) {
+                    showEmptyState();
+                } else {
+                    // Sort by score descending, then by fetch date descending
+                    allJobs.sort((a, b) => {
+                        if (b.score !== a.score) return b.score - a.score;
+                        return new Date(b.fetch_date) - new Date(a.fetch_date);
+                    });
+
+                    updateDateFilters();
+                    renderJobs(allJobs);
+                    updateStats();
+                }
+            } catch (error) {
+                console.error('Error loading job data:', error);
+                showEmptyState();
+            }
+        }
+
+        function getDatesToTry() {
+            const dates = [];
+            const today = new Date();
+
+            // Try the last 30 days
+            for (let i = 0; i < 30; i++) {
+                const date = new Date(today);
+                date.setDate(date.getDate() - i);
+                const dateStr = date.toISOString().split('T')[0];
+                dates.push(dateStr);
+            }
+
+            return dates;
+        }
+
+        function updateDateFilters() {
+            const uniqueDates = [...new Set(allJobs.map(j => j.fetch_date))].sort().reverse();
+            const dateFiltersDiv = document.getElementById('dateFilters');
+
+            dateFiltersDiv.innerHTML = '<button class="filter-btn active" onclick="filterByDate(\'all\')">All Dates</button>';
+
+            uniqueDates.forEach(date => {
+                const count = allJobs.filter(j => j.fetch_date === date).length;
+                dateFiltersDiv.innerHTML += `<button class="filter-btn" onclick="filterByDate('${date}')">${formatDate(date)} (${count})</button>`;
+            });
+        }
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr + 'T00:00:00');
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+
+        function filterByDate(date) {
+            currentDateFilter = date;
+            applyFilters();
+
+            // Update button states
+            document.querySelectorAll('#dateFilters .filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+        }
 
         function renderJobs(jobs) {
             const jobsList = document.getElementById('jobsList');
 
             if (jobs.length === 0) {
-                jobsList.innerHTML = '<div class="empty-state"><p>No jobs match your filters yet.</p></div>';
+                showEmptyState();
                 return;
             }
 
@@ -441,11 +555,13 @@
                         </div>
                         <div class="job-meta">
                             <div class="meta-item">📍 <span class="location-tag ${job.tier}">${job.location}</span></div>
-                            <div class="meta-item">📅 ${job.posted}</div>
+                            <div class="meta-item">📅 ${job.posted_display}</div>
                             <div class="meta-item">📰 ${job.source}</div>
+                            <div class="meta-item"><span class="fetch-date">Fetched: ${formatDate(job.fetch_date)}</span></div>
                         </div>
                         <div class="job-description">${job.summary}</div>
-                        <div class="match-reason">✨ ${job.reason}</div>
+                        <div class="match-reason">✨ ${job.match_reason}</div>
+                        ${job.salary && job.salary !== 'Not specified' ? `<div style="font-size: 13px; color: var(--text-muted); margin-bottom: 12px;">💰 ${job.salary}</div>` : ''}
                         <div class="job-actions">
                             <button class="action-btn" onclick="alert('Deep dive would trigger job-profile-analyzer skill with full analysis')">🔍 Deep Dive Analysis</button>
                             <button class="action-btn" onclick="alert('Saved to your opportunities list')">💾 Save</button>
@@ -458,31 +574,74 @@
             updateStats();
         }
 
-        function filterByRelevance(level) {
+        function applyFilters() {
             let filtered = allJobs;
-            if (level === 'high') {
-                filtered = allJobs.filter(j => j.score >= 70);
-            } else if (level === 'medium') {
-                filtered = allJobs.filter(j => j.score >= 50 && j.score < 70);
+
+            // Apply date filter
+            if (currentDateFilter !== 'all') {
+                filtered = filtered.filter(j => j.fetch_date === currentDateFilter);
             }
+
+            // Apply relevance filter
+            if (currentFilter === 'high') {
+                filtered = filtered.filter(j => j.score >= 70);
+            } else if (currentFilter === 'medium') {
+                filtered = filtered.filter(j => j.score >= 50 && j.score < 70);
+            }
+
             renderJobs(filtered);
+        }
+
+        function filterByRelevance(level) {
+            currentFilter = level;
+            applyFilters();
 
             document.querySelectorAll('.controls .btn').forEach(btn => btn.classList.remove('active'));
             event.target.classList.add('active');
         }
 
         function updateStats() {
-            document.getElementById('topMatches').textContent = allJobs.filter(j => j.score >= 70).length;
-            document.getElementById('mediumMatches').textContent = allJobs.filter(j => j.score >= 50 && j.score < 70).length;
-            document.getElementById('lowMatches').textContent = allJobs.filter(j => j.score < 50).length;
-            const avg = allJobs.length > 0 ? Math.round(allJobs.reduce((sum, j) => sum + j.score, 0) / allJobs.length) : '—';
+            const filtered = getFilteredJobs();
+            document.getElementById('topMatches').textContent = filtered.filter(j => j.score >= 70).length;
+            document.getElementById('mediumMatches').textContent = filtered.filter(j => j.score >= 50 && j.score < 70).length;
+            document.getElementById('lowMatches').textContent = filtered.filter(j => j.score < 50).length;
+            const avg = filtered.length > 0 ? Math.round(filtered.reduce((sum, j) => sum + j.score, 0) / filtered.length) : '—';
             document.getElementById('avgScore').textContent = avg;
-            document.getElementById('totalJobs').textContent = allJobs.length;
+            document.getElementById('totalJobs').textContent = filtered.length;
+
+            // Update last updated
+            const uniqueDates = [...new Set(allJobs.map(j => j.fetch_date))].sort().reverse();
+            if (uniqueDates.length > 0) {
+                document.getElementById('lastUpdated').textContent = formatDate(uniqueDates[0]);
+            }
         }
 
-        // Initialize
-        renderJobs(allJobs);
-        updateStats();
+        function getFilteredJobs() {
+            let filtered = allJobs;
+            if (currentDateFilter !== 'all') {
+                filtered = filtered.filter(j => j.fetch_date === currentDateFilter);
+            }
+            return filtered;
+        }
+
+        function showEmptyState() {
+            document.getElementById('jobsList').innerHTML = `
+                <div class="empty-state">
+                    <p>🚀 Ready to find your next opportunity!</p>
+                    <p style="font-size: 13px; margin-top: 8px;">The dashboard will automatically populate with job opportunities starting tomorrow morning at 8:00 AM.</p>
+                    <p style="font-size: 12px; color: var(--text-muted); margin-top: 8px;">All jobs are kept with their fetch date, creating a historical record of all opportunities.</p>
+                </div>
+            `;
+        }
+
+        // Load data on page load
+        document.addEventListener('DOMContentLoaded', loadJobData);
+
+        // Manual refresh button
+        window.refreshDashboard = function() {
+            document.getElementById('jobsList').innerHTML = '<div class="loading-state"><p>📊 Refreshing job data...</p></div>';
+            loadJobData();
+        };
     </script>
 </body>
 </html>
