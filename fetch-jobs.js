@@ -322,8 +322,7 @@ async function run() {
 
   console.log('\n' + '─'.repeat(52));
   if (errors > 0) console.log(`⚠️  ${errors} search(es) failed — check your API key`);
-  console.log(`✅  ${newJobs.length} new qualified jobs found today`);
-  console.log(`📊  ${allJobs.length} total jobs in dashboard\n`);
+  console.log(`✅  ${newJobs.length} qualified jobs found today\n`);
 
   if (newJobs.length > 0) {
     const top5 = [...newJobs].sort((a, b) => b.score - a.score).slice(0, 5);
