@@ -435,38 +435,25 @@
         </div>
     </div>
 
+    <!-- Job data injected by fetch-jobs.js — works locally and on Vercel -->
+    <script src="./jobs-data.js"></script>
     <script>
         let allJobs = [];
         let currentFilter = 'all';
         let currentDateFilter = 'all';
 
-        // Fetch all job data from consolidated file
-        async function loadJobData() {
-            try {
-                const response = await fetch('./jobs-data.json');
-                if (!response.ok) {
-                    showEmptyState();
-                    return;
-                }
-
-                const data = await response.json();
-                if (data.jobs && data.jobs.length > 0) {
-                    allJobs = data.jobs;
-
-                    // Sort by score descending, then by fetch date descending
-                    allJobs.sort((a, b) => {
-                        if (b.score !== a.score) return b.score - a.score;
-                        return new Date(b.fetch_date) - new Date(a.fetch_date);
-                    });
-
-                    updateDateFilters();
-                    renderJobs(allJobs);
-                    updateStats();
-                } else {
-                    showEmptyState();
-                }
-            } catch (error) {
-                console.error('Error loading job data:', error);
+        function loadJobData() {
+            const data = window.JOBS_DATA;
+            if (data && data.jobs && data.jobs.length > 0) {
+                allJobs = data.jobs;
+                allJobs.sort((a, b) => {
+                    if (b.score !== a.score) return b.score - a.score;
+                    return new Date(b.fetch_date) - new Date(a.fetch_date);
+                });
+                updateDateFilters();
+                renderJobs(allJobs);
+                updateStats();
+            } else {
                 showEmptyState();
             }
         }

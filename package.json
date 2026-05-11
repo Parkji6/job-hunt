@@ -4,9 +4,7 @@
   "description": "Daily job discovery dashboard for Valentin",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "fetch": "node --env-file=.env fetch-jobs.js"
   },
   "keywords": ["job-discovery", "dashboard"],
   "author": "Valentin Houssais",

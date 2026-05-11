@@ -1,4 +1,4 @@
-{
+window.JOBS_DATA = {
   "metadata": {
     "last_updated": "2026-05-11T18:23:52.898Z",
     "today": "2026-05-11",
@@ -456,4 +456,4 @@
       "fetch_date": "2026-05-11"
     }
   ]
-}
+};
