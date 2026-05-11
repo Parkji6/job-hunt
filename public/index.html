@@ -437,39 +437,19 @@
         let currentFilter = 'all';
         let currentDateFilter = 'all';
 
-        // Fetch all job data files
+        // Fetch all job data from consolidated file
         async function loadJobData() {
             try {
-                // Try to fetch all job data files
-                const response = await fetch('../job-discovery-data/');
-
-                // If that doesn't work, try loading specific dates
-                const jobFiles = [];
-
-                // We'll try to load the most recent files
-                const dates = getDatesToTry();
-
-                for (const date of dates) {
-                    try {
-                        const fileResponse = await fetch(`../job-discovery-data/${date}-jobs.json`);
-                        if (fileResponse.ok) {
-                            const data = await fileResponse.json();
-                            if (data.jobs) {
-                                // Add fetch date to each job
-                                data.jobs.forEach(job => {
-                                    job.fetch_date = date;
-                                });
-                                allJobs = allJobs.concat(data.jobs);
-                            }
-                        }
-                    } catch (e) {
-                        // File doesn't exist, continue
-                    }
+                const response = await fetch('./jobs-data.json');
+                if (!response.ok) {
+                    showEmptyState();
+                    return;
                 }
 
-                if (allJobs.length === 0) {
-                    showEmptyState();
-                } else {
+                const data = await response.json();
+                if (data.jobs && data.jobs.length > 0) {
+                    allJobs = data.jobs;
+
                     // Sort by score descending, then by fetch date descending
                     allJobs.sort((a, b) => {
                         if (b.score !== a.score) return b.score - a.score;
@@ -479,26 +459,13 @@
                     updateDateFilters();
                     renderJobs(allJobs);
                     updateStats();
+                } else {
+                    showEmptyState();
                 }
             } catch (error) {
                 console.error('Error loading job data:', error);
                 showEmptyState();
             }
-        }
-
-        function getDatesToTry() {
-            const dates = [];
-            const today = new Date();
-
-            // Try the last 30 days
-            for (let i = 0; i < 30; i++) {
-                const date = new Date(today);
-                date.setDate(date.getDate() - i);
-                const dateStr = date.toISOString().split('T')[0];
-                dates.push(dateStr);
-            }
-
-            return dates;
         }
 
         function updateDateFilters() {
