@@ -295,37 +295,22 @@ async function run() {
     }
   }
 
-  // ─── Merge with history ──────────────────────────────────────────────────
+  // ─── Write today's jobs only ─────────────────────────────────────────────
 
   const jsonPath = path.join(__dirname, 'public', 'jobs-data.json');
   const jsPath   = path.join(__dirname, 'public', 'jobs-data.js');
-  let historicalJobs = [];
 
-  if (fs.existsSync(jsonPath)) {
-    try {
-      const existing = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-      // Keep jobs from previous days; today's run replaces today's entries
-      historicalJobs = (existing.jobs || []).filter(j =>
-        j.fetch_date && j.fetch_date !== today && j.source === 'Adzuna'
-      );
-    } catch {
-      // Corrupt file — start fresh
-    }
-  }
-
-  const allJobs = [...historicalJobs, ...newJobs];
-  allJobs.sort((a, b) => b.score - a.score || new Date(b.fetch_date) - new Date(a.fetch_date));
+  newJobs.sort((a, b) => b.score - a.score);
 
   const output = {
     metadata: {
-      last_updated:    new Date().toISOString(),
+      last_updated:       new Date().toISOString(),
       today,
-      new_today:       newJobs.length,
-      total_jobs:      allJobs.length,
-      sources_used:    ['Adzuna'],
+      total_jobs:         newJobs.length,
+      sources_used:       ['Adzuna'],
       countries_searched: COUNTRIES,
     },
-    jobs: allJobs,
+    jobs: newJobs,
   };
 
   // Write JSON (for Vercel hosting)

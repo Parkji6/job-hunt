@@ -1,0 +1,33 @@
+name: Daily Job Discovery
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 7:00 AM Warsaw winter / 8:00 AM summer (UTC+1/+2)
+  workflow_dispatch:       # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch jobs from Adzuna
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: node fetch-jobs.js
+
+      - name: Commit and push updated jobs
+        run: |
+          git config user.name "Job Discovery Bot"
+          git config user.email "action@github.com"
+          git add public/jobs-data.json public/jobs-data.js
+          git diff --staged --quiet || git commit -m "Daily jobs update $(date +%Y-%m-%d)"
+          git push
