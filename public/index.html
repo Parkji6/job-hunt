@@ -378,9 +378,12 @@
 <body>
     <div class="container">
         <header>
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; gap: 10px; flex-wrap: wrap;">
                 <h1>🎯 Job Discovery Dashboard</h1>
-                <button onclick="refreshDashboard()" style="padding: 8px 16px; background: #2563eb; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 500;">🔄 Refresh</button>
+                <div style="display: flex; gap: 10px;">
+                    <button onclick="refreshDashboard()" style="padding: 8px 16px; background: #2563eb; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 500;">🔄 Refresh</button>
+                    <button onclick="viewSavedJobs()" style="padding: 8px 16px; background: #16a34a; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 500;">💾 Saved (<span id="savedCount">0</span>)</button>
+                </div>
             </div>
             <div class="header-meta">
                 <span>Total jobs: <strong id="totalJobs">0</strong></span>
@@ -530,9 +533,9 @@
                         <div class="match-reason">✨ ${job.match_reason}</div>
                         ${job.salary && job.salary !== 'Not specified' ? `<div style="font-size: 13px; color: var(--text-muted); margin-bottom: 12px;">💰 ${job.salary}</div>` : ''}
                         <div class="job-actions">
-                            <button class="action-btn" onclick="alert('Deep dive would trigger job-profile-analyzer skill with full analysis')">🔍 Deep Dive Analysis</button>
-                            <button class="action-btn" onclick="alert('Saved to your opportunities list')">💾 Save</button>
-                            <button class="action-btn" onclick="window.open('${job.link}')">🔗 View Full Post</button>
+                            <button class="action-btn" onclick="deepDiveAnalysis('${job.id}', '${job.title}', '${job.company}', '${job.link}')">🔍 Deep Dive Analysis</button>
+                            <button class="action-btn" onclick="saveJob('${job.id}', '${job.title}', '${job.company}')">💾 Save</button>
+                            <button class="action-btn" onclick="window.open('${job.link}', '_blank')">🔗 View Full Post</button>
                         </div>
                     </div>
                 `;
@@ -602,12 +605,75 @@
         }
 
         // Load data on page load
-        document.addEventListener('DOMContentLoaded', loadJobData);
+        document.addEventListener('DOMContentLoaded', function() {
+            loadJobData();
+            updateSavedCount();
+        });
+
+        // Update saved count display
+        function updateSavedCount() {
+            let savedJobs = JSON.parse(localStorage.getItem('saved_jobs') || '[]');
+            document.getElementById('savedCount').textContent = savedJobs.length;
+        }
 
         // Manual refresh button
         window.refreshDashboard = function() {
             document.getElementById('jobsList').innerHTML = '<div class="loading-state"><p>📊 Refreshing job data...</p></div>';
             loadJobData();
+        };
+
+        // Deep dive analysis - opens job details for full analysis
+        window.deepDiveAnalysis = function(jobId, title, company, link) {
+            // Create a message to trigger the job-profile-analyzer skill
+            const message = `Please analyze this job opportunity for me using the job-profile-analyzer skill:
+
+**Job:** ${title}
+**Company:** ${company}
+**Link:** ${link}
+**Job ID:** ${jobId}
+
+Provide a comprehensive analysis including company research, fit assessment, gap analysis, resume tailoring recommendations, and interview preparation.`;
+
+            alert('Deep dive analysis opened! Copy the job details:\n\n' + message + '\n\nThen use the job-profile-analyzer skill in Claude for full analysis.');
+        };
+
+        // Save job to opportunities list
+        window.saveJob = function(jobId, title, company) {
+            let savedJobs = JSON.parse(localStorage.getItem('saved_jobs') || '[]');
+
+            // Check if already saved
+            if (savedJobs.find(j => j.id === jobId)) {
+                alert('✓ Already saved!');
+                return;
+            }
+
+            savedJobs.push({
+                id: jobId,
+                title: title,
+                company: company,
+                savedAt: new Date().toISOString()
+            });
+
+            localStorage.setItem('saved_jobs', JSON.stringify(savedJobs));
+            updateSavedCount();
+            alert(`✓ Saved: ${title} at ${company}`);
+        };
+
+        // View saved opportunities
+        window.viewSavedJobs = function() {
+            let savedJobs = JSON.parse(localStorage.getItem('saved_jobs') || '[]');
+
+            if (savedJobs.length === 0) {
+                alert('No saved opportunities yet.');
+                return;
+            }
+
+            let message = 'Your Saved Opportunities:\n\n';
+            savedJobs.forEach((job, index) => {
+                message += `${index + 1}. ${job.title} at ${job.company}\n`;
+            });
+
+            alert(message);
         };
     </script>
 </body>
