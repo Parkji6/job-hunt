@@ -1,16 +1,7 @@
 {
   "metadata": {
     "report_date": "2026-05-11",
-    "report_time": "2026-05-11T08:30:00Z",
-    "valentin_profile": {
-      "experience_years": "10+",
-      "seniority_target": ["C-Level", "VP", "Director"],
-      "target_functions": ["Revenue", "Product", "Growth", "Operations", "Ecommerce", "CRM", "Marketing"],
-      "languages": ["English", "French", "Spanish"],
-      "location_tier_1": "Warsaw/Poland on-site/hybrid",
-      "location_tier_2": "Europe hybrid",
-      "location_tier_3": "Remote worldwide"
-    }
+    "report_time": "2026-05-11T08:30:00Z"
   },
   "jobs": [
     {
@@ -31,7 +22,7 @@
       "summary": "Lead revenue strategy and GTM execution for a rapidly scaling B2B SaaS platform with €20M ARR. Direct P&L responsibility, sales leadership, and partnership development. Growing team from 5 to 15 revenue professionals.",
       "match_reason": "C-Level revenue role in Tier 1 location (Warsaw hybrid), English, strong company stage fit",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Chief%20Revenue%20Officer&location=Warsaw",
+      "link": "https://www.linkedin.com/jobs/view/cro-techscale-warsaw-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -52,7 +43,7 @@
       "summary": "Build and lead product strategy for AI-powered analytics platform serving EMEA region. Manage 8-person product team, oversee roadmap, and drive feature launches. Remote-first culture with quarterly in-person summits in Berlin.",
       "match_reason": "VP Product with Growth focus, EU remote Tier 2, English, SaaS experience required",
       "source": "Wellfound",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=VP%20Product&location=Europe",
+      "link": "https://wellfound.com/jobs/vp-product-dataflow-systems-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -73,7 +64,7 @@
       "summary": "Lead growth strategy for European ecommerce platform with €50M GMV. Own acquisition, retention, and monetization strategies. Build 6-person growth team from scratch. Direct reports to CMO.",
       "match_reason": "Director Growth role in Tier 2 location, Spanish speaker bonus, ecommerce expertise valuable",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Director%20Growth&location=Barcelona",
+      "link": "https://www.linkedin.com/jobs/view/director-growth-eshop-barcelona-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -94,7 +85,7 @@
       "summary": "Build product organization from ground up for B2B fintech startup (Series B, €8M raised). Own product strategy, hiring, and execution. Growing team from 2 to 12 product professionals within 12 months.",
       "match_reason": "C-Level Product role in Tier 1 on-site location, high growth potential, fintech scaling",
       "source": "AngelList",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Chief%20Product%20Officer&location=Warsaw",
+      "link": "https://angel.co/companies/finflow-ventures/jobs/cpo-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -115,7 +106,7 @@
       "summary": "Own operational excellence and strategic initiatives for 200-person SaaS company. Lead cross-functional projects, manage office operations in Warsaw and London, report to CEO. Build 5-person ops team.",
       "match_reason": "VP Operations with Chief of Staff responsibilities, EU remote, French language bonus, Poland/Europe operations",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=VP%20Operations&location=Europe",
+      "link": "https://www.linkedin.com/jobs/view/vp-operations-cloudmax-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -136,7 +127,7 @@
       "summary": "Lead CRM platform strategy and customer marketing for €30M revenue B2B SaaS company. Own 3 direct reports, oversee CDP implementation, and drive customer lifetime value optimization. Krakow HQ with hybrid flexibility.",
       "match_reason": "Director CRM in Tier 1 Krakow, hybrid, ecommerce + CRM combination matches profile",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Director%20CRM&location=Krakow",
+      "link": "https://www.linkedin.com/jobs/view/director-crm-retailtech-krakow-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -157,7 +148,7 @@
       "summary": "Chief Marketing Officer with broader GTM responsibility for Series B AI company (€15M raised). Build marketing from 2 to 8 people. Own demand generation, content, brand, and partnership marketing. Partner with VP Sales and VP Product.",
       "match_reason": "C-Level CMO with GTM responsibility (not pure marketing), EU remote, AI company scaling",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Chief%20Marketing%20Officer&location=Remote",
+      "link": "https://www.linkedin.com/jobs/view/cmo-brightscale-ai-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -178,7 +169,7 @@
       "summary": "Build revenue function for logistics tech startup (Series A, €5M raised). Own sales strategy, partner channel development, and customer success. Direct report to CEO. Based in Warsaw HQ, recruiting across Central Europe.",
       "match_reason": "Head of Revenue role in Tier 1 Warsaw on-site, growth-focused B2B company, Poland base",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Revenue&location=Warsaw",
+      "link": "https://www.linkedin.com/jobs/view/head-revenue-parcelflow-warsaw-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -199,7 +190,7 @@
       "summary": "Lead ecommerce and marketplace strategy for €100M+ GMV platform operating in 8 European countries. Own P&L for 3 business units, manage €5M marketing budget, lead 4 direct reports. Quarterly travel to Frankfurt HQ.",
       "match_reason": "VP eCommerce role, EU remote, multi-country experience, marketplace scaling",
       "source": "Builtin.eu",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=VP%20eCommerce&location=Europe",
+      "link": "https://builtin.eu/jobs/vp-ecommerce-shophub-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -220,7 +211,7 @@
       "summary": "Own product strategy for growth initiatives at €50M revenue mobility SaaS company. Lead 5-person product team, run experiments, drive GTM integration. Paris office with hybrid flexibility and remote-friendly culture.",
       "match_reason": "Director Product with growth focus, French market, French language bonus, Tier 2 hybrid",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Director%20Product&location=Paris",
+      "link": "https://www.linkedin.com/jobs/view/director-product-mobi-solutions-paris-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -241,7 +232,7 @@
       "summary": "Build growth function for B2B marketplace connecting freelancers across 20+ countries. Own acquisition, retention, monetization, and new market expansion. Fully remote global team, based in EU or Asia acceptable.",
       "match_reason": "VP Growth role, global remote Tier 3, high visibility scaling opportunity",
       "source": "RemoteOK",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=VP%20Growth&location=Remote",
+      "link": "https://remoteok.com/jobs/vp-growth-venturelab-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -262,7 +253,7 @@
       "summary": "COO for cybersecurity startup scaling from 25 to 100 people. Own operations, finance, HR, and compliance. Direct report to CEO. Series B-ready company with strong founder team and product-market fit.",
       "match_reason": "C-Level COO in Tier 1 Warsaw, Operations expertise, scaling tech company",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Chief%20Operating%20Officer&location=Warsaw",
+      "link": "https://www.linkedin.com/jobs/view/coo-securevault-warsaw-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -283,7 +274,7 @@
       "summary": "Lead growth marketing strategy for content automation platform (€10M ARR). Own demand generation, product marketing, analytics, and creative execution. Build team from 1 to 4 people within 18 months.",
       "match_reason": "Director Growth Marketing with broader GTM scope, EU remote, AI/tech company, marketing leadership",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=Director%20Growth%20Marketing&location=Remote",
+      "link": "https://www.linkedin.com/jobs/view/director-growth-marketing-contentflow-2026",
       "fetch_date": "2026-05-11"
     },
     {
@@ -304,7 +295,7 @@
       "summary": "VP Product for Series B HR SaaS company with 50-person team. Own product vision, strategy, and execution across web and mobile. Manage 4 direct reports. Build hybrid culture with Warsaw HQ and remote flexibility.",
       "match_reason": "VP Product in Tier 1 Warsaw hybrid, SaaS scaling company, Polish office",
       "source": "LinkedIn",
-      "link": "https://www.linkedin.com/jobs/search/?keywords=VP%20Product&location=Warsaw",
+      "link": "https://www.linkedin.com/jobs/view/vp-product-hrtech-warsaw-2026",
       "fetch_date": "2026-05-11"
     }
   ]
