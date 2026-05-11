@@ -1,0 +1,15 @@
+# Vercel ignore patterns
+.git
+.gitignore
+README.md
+node_modules
+.env.local
+.env.*.local
+*.md
+.DS_Store
+.vscode
+.idea
+job-discovery-data
+job-profile-analyzer-workspace
+*-workspace
+*.pdf

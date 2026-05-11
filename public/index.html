@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Discovery Dashboard - Valentin</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --success: #16a34a;
+            --warning: #ea580c;
+            --danger: #dc2626;
+            --bg: #f8fafc;
+            --surface: #ffffff;
+            --border: #e2e8f0;
+            --text: #1e293b;
+            --text-muted: #64748b;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+
+        .header-meta {
+            display: flex;
+            gap: 20px;
+            font-size: 14px;
+            color: var(--text-muted);
+            flex-wrap: wrap;
+        }
+
+        .header-meta span {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 8px 16px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text);
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .btn:hover {
+            background: var(--bg);
+            border-color: var(--primary);
+        }
+
+        .btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 5px;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        .jobs-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .job-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 20px;
+            transition: all 0.2s;
+        }
+
+        .job-card:hover {
+            border-color: var(--primary);
+            box-shadow: 0 2px 8px rgba(37, 99, 235, 0.1);
+        }
+
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+            gap: 15px;
+        }
+
+        .job-title {
+            flex: 1;
+        }
+
+        .job-title h3 {
+            font-size: 18px;
+            margin-bottom: 4px;
+        }
+
+        .job-company {
+            font-size: 14px;
+            color: var(--text-muted);
+        }
+
+        .score-badge {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5px;
+            text-align: center;
+            min-width: 70px;
+        }
+
+        .score {
+            font-size: 28px;
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        .stars {
+            font-size: 16px;
+            letter-spacing: 2px;
+        }
+
+        .stars.high { color: var(--success); }
+        .stars.medium { color: var(--warning); }
+        .stars.low { color: var(--danger); }
+
+        .job-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+            font-size: 14px;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .location-tag {
+            display: inline-block;
+            padding: 4px 8px;
+            background: var(--bg);
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .tier-1 { background: #dcfce7; color: var(--success); }
+        .tier-2 { background: #fef3c7; color: #b45309; }
+        .tier-3 { background: #e0e7ff; color: var(--primary); }
+
+        .job-description {
+            color: var(--text-muted);
+            font-size: 14px;
+            margin-bottom: 12px;
+            line-height: 1.5;
+        }
+
+        .match-reason {
+            background: var(--bg);
+            border-left: 3px solid var(--primary);
+            padding: 10px 12px;
+            border-radius: 4px;
+            font-size: 13px;
+            margin-bottom: 12px;
+        }
+
+        .job-actions {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .action-btn {
+            padding: 8px 12px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--primary);
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .action-btn:hover {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .empty-state {
+            background: var(--surface);
+            border: 2px dashed var(--border);
+            border-radius: 8px;
+            padding: 40px 20px;
+            text-align: center;
+            color: var(--text-muted);
+        }
+
+        .refresh-note {
+            background: #eff6ff;
+            border-left: 3px solid var(--primary);
+            padding: 12px 15px;
+            border-radius: 4px;
+            font-size: 13px;
+            color: #1e40af;
+            margin-bottom: 20px;
+        }
+
+        .source-breakdown {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+
+        .source-breakdown h3 {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 12px;
+        }
+
+        .source-items {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+
+        .source-item {
+            background: var(--bg);
+            padding: 10px;
+            border-radius: 6px;
+            font-size: 13px;
+        }
+
+        .source-name {
+            font-weight: 500;
+            color: var(--primary);
+        }
+
+        .source-count {
+            color: var(--text-muted);
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .job-header {
+                flex-direction: column;
+            }
+
+            .controls {
+                flex-direction: column;
+            }
+
+            .stats {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 Job Discovery Dashboard</h1>
+            <div class="header-meta">
+                <span>Last updated: <strong id="lastUpdated">Never (awaiting first run)</strong></span>
+                <span>Next refresh: <strong>8:00 AM daily</strong></span>
+                <span>Available jobs: <strong id="totalJobs">0</strong></span>
+            </div>
+        </header>
+
+        <div class="refresh-note">
+            ℹ️ This dashboard updates automatically every day at 8:00 AM with job opportunities matching your criteria. When you click "Deep Dive" on any role, it triggers the full profile analysis skill to provide detailed gap analysis, resume tailoring, and interview prep.
+        </div>
+
+        <div class="source-breakdown">
+            <h3>📊 Today's Sources Breakdown</h3>
+            <div class="source-items">
+                <div class="source-item">
+                    <div class="source-name">LinkedIn</div>
+                    <div class="source-count" id="src-linkedin">0 jobs</div>
+                </div>
+                <div class="source-item">
+                    <div class="source-name">RemoteOK</div>
+                    <div class="source-count" id="src-remote">0 jobs</div>
+                </div>
+                <div class="source-item">
+                    <div class="source-name">Google Jobs</div>
+                    <div class="source-count" id="src-google">0 jobs</div>
+                </div>
+                <div class="source-item">
+                    <div class="source-name">Wellfound</div>
+                    <div class="source-count" id="src-wellfound">0 jobs</div>
+                </div>
+                <div class="source-item">
+                    <div class="source-name">EU Job Boards</div>
+                    <div class="source-count" id="src-eu">0 jobs</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn active" onclick="filterByRelevance('all')">All Jobs</button>
+            <button class="btn" onclick="filterByRelevance('high')">⭐⭐⭐ Top Matches (70+)</button>
+            <button class="btn" onclick="filterByRelevance('medium')">⭐⭐ Good Fits (50-69)</button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-label">Top Matches ⭐⭐⭐</div>
+                <div class="stat-value" id="topMatches">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Good Fits ⭐⭐</div>
+                <div class="stat-value" id="mediumMatches">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Worth Considering ⭐</div>
+                <div class="stat-value" id="lowMatches">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Average Score</div>
+                <div class="stat-value" id="avgScore">—</div>
+            </div>
+        </div>
+
+        <div id="jobsList" class="jobs-list">
+            <div class="empty-state">
+                <p>🚀 Ready to find your next opportunity!</p>
+                <p style="font-size: 13px; margin-top: 8px;">The dashboard will automatically populate with job opportunities starting tomorrow morning at 8:00 AM.</p>
+                <p style="font-size: 12px; color: var(--text-muted); margin-top: 8px;">Monitoring: LinkedIn, RemoteOK, Google Jobs, Wellfound, and European job boards</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Mock data for testing
+        const mockJobs = [
+            {
+                id: "job-001",
+                title: "Chief Marketing Officer",
+                company: "TechFlow GmbH",
+                location: "Berlin, Germany (Hybrid)",
+                tier: "tier-2",
+                score: 92,
+                summary: "Lead marketing strategy for Series B SaaS. $10M+ budget, 15-person team.",
+                reason: "Perfect CMO match at growth-stage company with European hybrid option",
+                posted: "2 days ago",
+                source: "LinkedIn",
+                link: "#"
+            }
+        ];
+
+        let allJobs = [...mockJobs];
+
+        function renderJobs(jobs) {
+            const jobsList = document.getElementById('jobsList');
+
+            if (jobs.length === 0) {
+                jobsList.innerHTML = '<div class="empty-state"><p>No jobs match your filters yet.</p></div>';
+                return;
+            }
+
+            jobsList.innerHTML = jobs.map(job => {
+                const relevance = job.score >= 70 ? 'high' : job.score >= 50 ? 'medium' : 'low';
+                const stars = relevance === 'high' ? '⭐⭐⭐' : relevance === 'medium' ? '⭐⭐' : '⭐';
+
+                return `
+                    <div class="job-card">
+                        <div class="job-header">
+                            <div class="job-title">
+                                <h3>${job.title}</h3>
+                                <div class="job-company">${job.company}</div>
+                            </div>
+                            <div class="score-badge">
+                                <div class="score">${job.score}</div>
+                                <div class="stars ${relevance}">${stars}</div>
+                            </div>
+                        </div>
+                        <div class="job-meta">
+                            <div class="meta-item">📍 <span class="location-tag ${job.tier}">${job.location}</span></div>
+                            <div class="meta-item">📅 ${job.posted}</div>
+                            <div class="meta-item">📰 ${job.source}</div>
+                        </div>
+                        <div class="job-description">${job.summary}</div>
+                        <div class="match-reason">✨ ${job.reason}</div>
+                        <div class="job-actions">
+                            <button class="action-btn" onclick="alert('Deep dive would trigger job-profile-analyzer skill with full analysis')">🔍 Deep Dive Analysis</button>
+                            <button class="action-btn" onclick="alert('Saved to your opportunities list')">💾 Save</button>
+                            <button class="action-btn" onclick="window.open('${job.link}')">🔗 View Full Post</button>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            updateStats();
+        }
+
+        function filterByRelevance(level) {
+            let filtered = allJobs;
+            if (level === 'high') {
+                filtered = allJobs.filter(j => j.score >= 70);
+            } else if (level === 'medium') {
+                filtered = allJobs.filter(j => j.score >= 50 && j.score < 70);
+            }
+            renderJobs(filtered);
+
+            document.querySelectorAll('.controls .btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        function updateStats() {
+            document.getElementById('topMatches').textContent = allJobs.filter(j => j.score >= 70).length;
+            document.getElementById('mediumMatches').textContent = allJobs.filter(j => j.score >= 50 && j.score < 70).length;
+            document.getElementById('lowMatches').textContent = allJobs.filter(j => j.score < 50).length;
+            const avg = allJobs.length > 0 ? Math.round(allJobs.reduce((sum, j) => sum + j.score, 0) / allJobs.length) : '—';
+            document.getElementById('avgScore').textContent = avg;
+            document.getElementById('totalJobs').textContent = allJobs.length;
+        }
+
+        // Initialize
+        renderJobs(allJobs);
+        updateStats();
+    </script>
+</body>
+</html>

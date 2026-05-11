@@ -1,0 +1,26 @@
+{
+  "skill_name": "job-profile-analyzer",
+  "evals": [
+    {
+      "id": 1,
+      "name": "vp-product-early-exploration-with-research",
+      "prompt": "I'm exploring a VP of Product role at a Series B SaaS company. Job posting: https://www.linkedin.com/jobs/view/3920817948. Please use my stored profile. I'm in early exploration stage — should I apply? Please research the company so I understand their context, funding, culture, and product direction.",
+      "expected_output": "Comprehensive analysis including: company overview (mission, funding, product category, culture signals), position scope (team size, scope of responsibilities, reporting line), alignment assessment showing my Product-Led Growth and ProdOps strengths mapping to their needs, any gaps (company-specific knowledge, specific tech stack), severity ratings, a rewritten resume tailored to this VP Product role, and interview prep tips.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "chief-marketing-officer-interview-prep",
+      "prompt": "I have an interview next week for a CMO role at a growth-stage B2B software company. Job posting: https://www.linkedin.com/jobs/view/3928347201. Use my stored profile. I don't need company research — I've done my homework. Just help me prepare: What should I emphasize in the interview? What gaps (if any) should I address? What are the key talking points I should prepare? What questions should I ask?",
+      "expected_output": "Interview-focused analysis: position scope and key responsibilities, direct alignment of my CMO background at Kinguin and AI Oktopus to this role, any gaps with severity, talking points that showcase my growth strategy and P&L management, likely interview questions I'll face, intelligent questions to ask about their growth metrics and GTM strategy, and tips on positioning my international/remote team leadership experience.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "product-operations-cv-pre-application",
+      "prompt": "I'm applying for a Head of Product Operations role at a fintech startup. Job posting: https://www.linkedin.com/jobs/view/3918202834. Use my stored profile. I want to tailor my resume before submitting. What should I emphasize? What gaps are critical vs. nice-to-have? Show me a rewritten resume that positions me best for this role.",
+      "expected_output": "Analysis focused on: position scope (cross-functional optimization, process design, metrics/analytics), my strong ProdOps background and how it maps to their needs, gaps (fintech domain knowledge, specific tools) with severity levels, a rewritten resume that leads with my ProdOps achievements at Kinguin (TTM optimization, workflow restructuring, cross-functional integration) and quantifiable results matching their job requirements.",
+      "files": []
+    }
+  ]
+}

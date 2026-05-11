@@ -1,0 +1,14 @@
+{
+  "name": "job-hunt-dashboard",
+  "version": "1.0.0",
+  "description": "Daily job discovery dashboard for Valentin",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["job-discovery", "dashboard"],
+  "author": "Valentin Houssais",
+  "license": "MIT"
+}
