@@ -1,9 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-05-11T18:23:52.898Z",
-    "today": "2026-05-11",
-    "new_today": 22,
-    "total_jobs": 22,
+    "last_updated": "2026-05-12T07:16:59.097Z",
+    "today": "2026-05-12",
+    "total_jobs": 18,
     "sources_used": [
       "Adzuna"
     ],
@@ -15,6 +14,66 @@ window.JOBS_DATA = {
     ]
   },
   "jobs": [
+    {
+      "id": "adzuna_5726365967",
+      "title": "Chief Revenue Officer",
+      "company": "Happy Team sp. z o.o.",
+      "location": "Gdańsk, Trójmiasto",
+      "location_type": "On-site",
+      "tier": "tier-2",
+      "score": 93,
+      "function": "Revenue",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "360k – 432k",
+      "posted_date": "2026-05-12",
+      "posted_display": "Today",
+      "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
+      "match_reason": "Revenue — C-Level | Score 93/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.pl/details/5726365967?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-12"
+    },
+    {
+      "id": "adzuna_5726365970",
+      "title": "Chief Revenue Officer",
+      "company": "Happy Team sp. z o.o.",
+      "location": "Kraków, małopolskie",
+      "location_type": "On-site",
+      "tier": "tier-2",
+      "score": 93,
+      "function": "Revenue",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "360k – 432k",
+      "posted_date": "2026-05-12",
+      "posted_display": "Today",
+      "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
+      "match_reason": "Revenue — C-Level | Score 93/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.pl/details/5726365970?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-12"
+    },
+    {
+      "id": "adzuna_5726365969",
+      "title": "Chief Revenue Officer",
+      "company": "Happy Team sp. z o.o.",
+      "location": "Poznań, wielkopolskie",
+      "location_type": "On-site",
+      "tier": "tier-2",
+      "score": 93,
+      "function": "Revenue",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "360k – 432k",
+      "posted_date": "2026-05-12",
+      "posted_display": "Today",
+      "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
+      "match_reason": "Revenue — C-Level | Score 93/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.pl/details/5726365969?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-12"
+    },
     {
       "id": "adzuna_5723515218",
       "title": "VP of Product",
@@ -33,7 +92,7 @@ window.JOBS_DATA = {
       "match_reason": "Product — VP | Score 92/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5723515218?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5722171801",
@@ -53,27 +112,7 @@ window.JOBS_DATA = {
       "match_reason": "Product — Director | Score 88/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5722171801?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
-    },
-    {
-      "id": "adzuna_5715967633",
-      "title": "Head of Product - AIVM (Agentic AI & Blockchain Platform) - Europe",
-      "company": "ChainGPT",
-      "location": "Polska",
-      "location_type": "Remote",
-      "tier": "tier-1",
-      "score": 85,
-      "function": "Product",
-      "seniority": "Head",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-05-01",
-      "posted_display": "10 days ago",
-      "summary": "Head of Product – AIVM (Agentic AI & Blockchain Platform) Location: Remote (Global) Position: Head of Product Company: AIVM Position Type: Full-Time About AIVM AIVM is building the guardrails for the post-human agentic economy, integrating cutting-edge AI and Blockchain technology. Our toolkit will enable standardized …",
-      "match_reason": "Product — Head | Score 85/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5715967633?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5722144114",
@@ -93,7 +132,7 @@ window.JOBS_DATA = {
       "match_reason": "Revenue — VP | Score 84/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5722144114?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5725401242",
@@ -113,7 +152,7 @@ window.JOBS_DATA = {
       "match_reason": "Operations — VP | Score 84/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5725401242?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5717330699",
@@ -133,7 +172,7 @@ window.JOBS_DATA = {
       "match_reason": "Growth — Head | Score 83/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5717330699?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5723731587",
@@ -153,7 +192,7 @@ window.JOBS_DATA = {
       "match_reason": "Revenue — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5723731587?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5723731492",
@@ -173,7 +212,7 @@ window.JOBS_DATA = {
       "match_reason": "Revenue — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5723731492?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5719986155",
@@ -193,67 +232,27 @@ window.JOBS_DATA = {
       "match_reason": "Revenue — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5719986155?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
-      "id": "adzuna_5715084071",
-      "title": "Senior Business Associate - Vice President - Warsaw",
-      "company": "Citigroup",
-      "location": "Warszawa, mazowieckie",
-      "location_type": "On-site",
-      "tier": "tier-1",
-      "score": 82,
-      "function": "Operations",
-      "seniority": "VP",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-05-01",
-      "posted_display": "11 days ago",
-      "summary": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview The Business Associate i…",
-      "match_reason": "Operations — VP | Score 82/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5715084071?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
-    },
-    {
-      "id": "adzuna_5725943678",
-      "title": "Marketing Director",
-      "company": "Nobul Resourcing Solutions",
-      "location": "Manchester, Greater Manchester",
+      "id": "adzuna_5726312432",
+      "title": "Product Director (Loyalty Sector)",
+      "company": "Comarch",
+      "location": "London, UK",
       "location_type": "Hybrid",
       "tier": "tier-2",
-      "score": 78,
-      "function": "Revenue",
+      "score": 80,
+      "function": "Product",
       "seniority": "Director",
       "language": "English",
-      "salary": "100k – 100k",
-      "posted_date": "2026-05-11",
+      "salary": "99k – 99k",
+      "posted_date": "2026-05-12",
       "posted_display": "Today",
-      "summary": "Marketing Director (VP Sales & Marketing or Head of Sales & Marketing also considered) Northern England | Hybrid A board-level marketing leadership role at a profitable, founder-led UK technology business at a defining commercial moment. About the company A UK-based, AI-led data and technology business serving the publ…",
-      "match_reason": "Revenue — Director | Score 78/100",
+      "summary": "Comarch Loyalty is a global loyalty and marketing automation platform available as SaaS (Comarch Loyalty Cloud), External Cloud and On-Premise/Hybrid. The product is end-to-end, AI-powered, no-code and API-centric — serving retail, travel, banking, telco and FMCG across Europe, North America, MENA and APAC. The custome…",
+      "match_reason": "Product — Director | Score 80/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5725943678?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
-    },
-    {
-      "id": "adzuna_5725875422",
-      "title": "Marketing Director",
-      "company": "Nobul Resourcing Solutions",
-      "location": "Hyde Park, Leeds",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 78,
-      "function": "Revenue",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "90k – 120k",
-      "posted_date": "2026-05-11",
-      "posted_display": "Today",
-      "summary": "Marketing Director (VP Sales & Marketing or Head of Sales & Marketing also considered) Northern England | Hybrid A board-level marketing leadership role at a profitable, founder-led UK technology business at a defining commercial moment. About the company A UK-based, AI-led data and technology business serving the publ…",
-      "match_reason": "Revenue — Director | Score 78/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5725875422?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "link": "https://www.adzuna.co.uk/jobs/details/5726312432?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5722171838",
@@ -273,7 +272,7 @@ window.JOBS_DATA = {
       "match_reason": "Growth — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5722171838?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5725814203",
@@ -288,32 +287,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "120k – 120k",
       "posted_date": "2026-05-11",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "Remote or hybrid remote/London office About us: We’re a fast growing AI startup on a mission to help midmarket businesses transform how work gets done. We’ve built a factory for custom operations agents. The factory builds Virtual Agents: software workers with AI reasoning that complete complex workflows end-to-end, di…",
       "match_reason": "Product — VP | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5725814203?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
-    },
-    {
-      "id": "adzuna_5715967604",
-      "title": "Head of Product - AIVM (Agentic AI & Blockchain Platform) - Europe",
-      "company": "ChainGPT",
-      "location": "Nederland",
-      "location_type": "Remote",
-      "tier": "tier-3",
-      "score": 72,
-      "function": "Product",
-      "seniority": "Head",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-05-01",
-      "posted_display": "10 days ago",
-      "summary": "Head of Product – AIVM (Agentic AI & Blockchain Platform) Location: Remote (Global) Position: Head of Product Company: AIVM Position Type: Full-Time About AIVM AIVM is building the guardrails for the post-human agentic economy, integrating cutting-edge AI and Blockchain technology. Our toolkit will enable standardized …",
-      "match_reason": "Product — Head | Score 72/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.nl/details/5715967604?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5720616219",
@@ -328,52 +307,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "104k – 104k",
       "posted_date": "2026-05-06",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "Ecommerce Account Director, 3 Month Contract Location: Hybrid, 2 to 3 days per week in Central London Start: Within 2 to 3 weeks Introduction I'm working with a leading global agency that is looking to hire an Ecommerce Account Director on a 3 month contract. This is a hybrid role, requiring 2 to 3 days per week in the…",
       "match_reason": "Ecommerce — Director | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5720616219?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
-    },
-    {
-      "id": "adzuna_5723731576",
-      "title": "Vice President of Sales",
-      "company": "Intelligent People",
-      "location": "UK",
-      "location_type": "Remote",
-      "tier": "tier-3",
-      "score": 67,
-      "function": "Revenue",
-      "seniority": "VP",
-      "language": "English",
-      "salary": "85k – 85k",
-      "posted_date": "2026-05-09",
-      "posted_display": "3 days ago",
-      "summary": "VP Sales | Professional E-Learning | £130-150k 80% Bonus | Remote (UK) A fast-growing, PE-backed management learning and development provider is looking for a VP Sales / Senior Sales Director to lead and develop a team of 25 across Sales and Customer Success, while playing a key role in strategic enterprise opportuniti…",
-      "match_reason": "Revenue — VP | Score 67/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5723731576?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
-    },
-    {
-      "id": "adzuna_5720619313",
-      "title": "Head of Europe Markets",
-      "company": "Mindspace",
-      "location": "Bishopsgate, Central London",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 67,
-      "function": "Growth",
-      "seniority": "Head",
-      "language": "English",
-      "salary": "73k – 73k",
-      "posted_date": "2026-05-06",
-      "posted_display": "5 days ago",
-      "summary": "About Mindspace Founded in 2014, Mindspace is a leading provider of flexible workspaces with an expanding footprint across Europe, Israel, and the US. Our design-led office spaces and on-demand offerings such as meeting rooms, event spaces, and daily offices provide the ideal solution for enterprise companies, startups…",
-      "match_reason": "Growth — Head | Score 67/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5720619313?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5723095396",
@@ -388,32 +327,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "300k – 300k",
       "posted_date": "2026-05-08",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "VP Marketing / Customer Acquisition - MASSACHUSETTS - UNITED STATES Work Experience (Years ) - 10-25 Remote Status - No Remote (hybrid 3 day wfo) Sponsor - No Degree - University - Bachelor's Degree/3-4 Year Degree Relocation Paid - No Recruit From - Local Job Description We have been retained by our client to find the…",
       "match_reason": "Marketing — VP | Score 67/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5723095396?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
-    },
-    {
-      "id": "adzuna_5725797568",
-      "title": "Head of Perm Recruitment",
-      "company": "Rite Recruit",
-      "location": "London, UK",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 65,
-      "function": "Growth",
-      "seniority": "Head",
-      "language": "English",
-      "salary": "70k – 70k",
-      "posted_date": "2026-05-11",
-      "posted_display": "Today",
-      "summary": "Job Title: Head of Permanent Energy Division (Renewables – CAPEX) Location: London (Hybrid – 3 days in office) Salary: Up to £70,000 base Reports To Director Role Overview We are looking for a commercially driven Head of Permanent Energy Division to lead and rebuild a specialist recruitment function focused on the CAPE…",
-      "match_reason": "Growth — Head | Score 65/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5725797568?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5722055635",
@@ -433,7 +352,7 @@ window.JOBS_DATA = {
       "match_reason": "Revenue — Director | Score 63/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.fr/details/5722055635?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "fetch_date": "2026-05-12"
     },
     {
       "id": "adzuna_5721184365",
@@ -452,8 +371,8 @@ window.JOBS_DATA = {
       "summary": "WHY JOIN US? At Betclic, success comes from passionate and committed teams. Here's why you'll love working with us: An international and creative environment where every project is an opportunity to innovate Hypergrowth that brings new challenges and development opportunities every day A healthy work-life balance: flex…",
       "match_reason": "Product — Head | Score 62/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/details/5721184365?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-11"
+      "link": "https://www.adzuna.fr/land/ad/5721184365?se=iBFgetJN8RGxn8NxFB_0QQ&utm_medium=api&utm_source=6b725f98&v=91383B353F25BDE635C41956804DAF2623C280F9",
+      "fetch_date": "2026-05-12"
     }
   ]
 };
