@@ -24,6 +24,9 @@ jobs:
         with:
           node-version: '24'
 
+      - name: Debug — show fetch-jobs.js version
+        run: grep -n "allJobs\|qualified jobs" fetch-jobs.js || echo "No allJobs found — code is correct"
+
       - name: Fetch jobs from Adzuna
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
