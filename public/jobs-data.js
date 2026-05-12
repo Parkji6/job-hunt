@@ -1,8 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-05-12T07:16:59.097Z",
+    "last_updated": "2026-05-12T08:44:18.823Z",
     "today": "2026-05-12",
-    "total_jobs": 18,
+    "total_jobs": 19,
     "sources_used": [
       "Adzuna"
     ],
@@ -335,6 +335,26 @@ window.JOBS_DATA = {
       "fetch_date": "2026-05-12"
     },
     {
+      "id": "adzuna_5726568960",
+      "title": "Head of Sales – Travel",
+      "company": "Lipton Media",
+      "location": "London, UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 65,
+      "function": "Revenue",
+      "seniority": "Head",
+      "language": "English",
+      "salary": "55k – 60k",
+      "posted_date": "2026-05-12",
+      "posted_display": "Today",
+      "summary": "Head of Sales – Travel Events £55,000 - £60,000 Base Uncapped Commission Hybrid London Leading media events and publishing business specialising seeks highly accomplished senior sales leader to join their high growth business leading the launch of a super exciting travel event. You'll join a purpose-driven company that…",
+      "match_reason": "Revenue — Head | Score 65/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5726568960?se=MmMHqN5N8RGIdfwWrCN3OQ&utm_medium=api&utm_source=6b725f98&v=49D331E341DE76EFF57299174B651F245C647AEE",
+      "fetch_date": "2026-05-12"
+    },
+    {
       "id": "adzuna_5722055635",
       "title": "Mission Sales Director, France",
       "company": "Iceye",
@@ -371,7 +391,7 @@ window.JOBS_DATA = {
       "summary": "WHY JOIN US? At Betclic, success comes from passionate and committed teams. Here's why you'll love working with us: An international and creative environment where every project is an opportunity to innovate Hypergrowth that brings new challenges and development opportunities every day A healthy work-life balance: flex…",
       "match_reason": "Product — Head | Score 62/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/land/ad/5721184365?se=iBFgetJN8RGxn8NxFB_0QQ&utm_medium=api&utm_source=6b725f98&v=91383B353F25BDE635C41956804DAF2623C280F9",
+      "link": "https://www.adzuna.fr/land/ad/5721184365?se=BITOrN5N8RGCcepBnV14HA&utm_medium=api&utm_source=6b725f98&v=91383B353F25BDE635C41956804DAF2623C280F9",
       "fetch_date": "2026-05-12"
     }
   ]
