@@ -1,8 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-05-14T08:41:30.018Z",
-    "today": "2026-05-14",
-    "total_jobs": 44,
+    "last_updated": "2026-05-15T08:52:19.992Z",
+    "today": "2026-05-15",
+    "total_jobs": 38,
     "sources_used": [
       "Adzuna"
     ],
@@ -27,12 +27,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "360k – 432k",
       "posted_date": "2026-05-12",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
       "match_reason": "Revenue — C-Level | Score 95/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5726365966?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5726365969",
@@ -47,32 +47,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "360k – 432k",
       "posted_date": "2026-05-12",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
       "match_reason": "Revenue — C-Level | Score 93/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5726365969?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5726365967",
-      "title": "Chief Revenue Officer",
-      "company": "Happy Team sp. z o.o.",
-      "location": "Gdańsk, Trójmiasto",
-      "location_type": "On-site",
-      "tier": "tier-2",
-      "score": 93,
-      "function": "Revenue",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "360k – 432k",
-      "posted_date": "2026-05-12",
-      "posted_display": "2 days ago",
-      "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
-      "match_reason": "Revenue — C-Level | Score 93/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5726365967?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5726365970",
@@ -87,12 +67,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "360k – 432k",
       "posted_date": "2026-05-12",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
       "match_reason": "Revenue — C-Level | Score 93/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5726365970?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
+    },
+    {
+      "id": "adzuna_5726365967",
+      "title": "Chief Revenue Officer",
+      "company": "Happy Team sp. z o.o.",
+      "location": "Gdańsk, Trójmiasto",
+      "location_type": "On-site",
+      "tier": "tier-2",
+      "score": 93,
+      "function": "Revenue",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "360k – 432k",
+      "posted_date": "2026-05-12",
+      "posted_display": "3 days ago",
+      "summary": "Happy Team is a software house delivering custom IT solutions for industries like eCommerce, logistics, and e-mobility. We focus on high-quality, scalable software and long-term client partnerships, combining technical expertise with a human-centered approach. As Happy Team continues to scale its operations and expand …",
+      "match_reason": "Revenue — C-Level | Score 93/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.pl/details/5726365967?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5723515218",
@@ -107,32 +107,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-08",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "MEDvidi is a leading telehealth provider specialising in mental health. We are building a comprehensive ecosystem of solutions and apps to help people achieve happiness and overall well-being, and we're doing it with AI at the core. We are seeking a VP of Product to lead our entire product & engineering organisation. T…",
       "match_reason": "Product — VP | Score 92/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5723515218?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5721223725",
-      "title": "Product Director (Loyalty Sector)",
-      "company": "Comarch",
-      "location": "Kraków, małopolskie",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 88,
-      "function": "Product",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-05-07",
-      "posted_display": "7 days ago",
-      "summary": "Comarch Loyalty is a global loyalty and marketing automation platform available as SaaS (Comarch Loyalty Cloud), External Cloud and On-Premise/Hybrid. The product is end-to-end, AI-powered, no-code and API-centric — serving retail, travel, banking, telco and FMCG across Europe, North America, MENA and APAC. The custome…",
-      "match_reason": "Product — Director | Score 88/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5721223725?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5722171801",
@@ -147,32 +127,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-07",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "Highlights Location: Poland, Remote (core hours 9:00–18:00 CET) Stock options Languages: Fluent in English and Russian Reports to VP, Product About Fundraise Up Fundraise Up is a global fundraising platform that powers tens of millions of dollars in donations every month for leading nonprofits — including UNICEF, the A…",
       "match_reason": "Product — Director | Score 88/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5722171801?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5720925828",
-      "title": "Director of Product, Core Markets",
-      "company": "Fundraise Up",
-      "location": "Polska",
-      "location_type": "Remote",
-      "tier": "tier-1",
-      "score": 88,
-      "function": "Product",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-05-06",
-      "posted_display": "7 days ago",
-      "summary": "Highlights: Role: Director of Product Location: Remote (core hours 9:00–18:00 CET) Languages: Fluent English (C1) and Russian (Native) Travel: Regular travel to customers, conferences, and the U.S. Reports to: VP of Product About Fundraise Up We’re Fundraise Up - a global fundraising platform built to make donating to …",
-      "match_reason": "Product — Director | Score 88/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5720925828?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5725876986",
@@ -187,12 +147,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-11",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "MEDvidi is a leading telehealth provider specialising in mental health issues. We are building a comprehensive ecosystem of solutions and apps to address mental health issues, helping people achieve happiness and overall well-being. We are seeking a Director of Product who will join our AI Autonomous Clinic Track to le…",
       "match_reason": "Product — Director | Score 88/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5725876986?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5727358399",
@@ -207,12 +167,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-12",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Viseven Group is a leading global B2B MarTech service provider, empowering Pharma and LifeScience companies since 2009. Our mission is to drive digital transformation and excellence, offering comprehensive end-to-end software and digital marketing services tailored to the pharmaceutical industry. The company's solution…",
       "match_reason": "Product — Head | Score 87/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5727358399?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5725401242",
@@ -227,12 +187,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "227k – 327k",
       "posted_date": "2026-05-10",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Updated: 08 May 2026 Freelance | 8–20 hrs/week | Remote (EU/UK) Are you a senior operations leader passionate about shaping how AI understands and supports strategic operational excellence? Use your real-world expertise to enhance the realism and depth of AI-driven business solutions. About the Role 10x.team connects e…",
       "match_reason": "Operations — VP | Score 84/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5725401242?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5724785486",
@@ -247,12 +207,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-10",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "Position Overview We are seeking a Chief Operating Officer (COO) for overseeing the day-to-day administrative and operational functions of the business. Reporting directly to the CEO, the COO ensures the company executes its strategy efficiently, drives operational scalability, and maintains a high-performance culture …",
       "match_reason": "Operations — C-Level | Score 83/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5724785486?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5726957205",
@@ -267,12 +227,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-12",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Head of Operations Miejsce pracy: Wrocław Technologies we use Operating system macOS About the project We’re looking for a Head of Operations to work side by side with our CEO and help turn strategy into execution. This is a high-agency, hands-on operator role at the center of the company - leading execution with a str…",
       "match_reason": "Operations — Head | Score 83/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.pl/land/ad/5726957205?se=xoOdpnBP8RGWTMrFp3SO-w&utm_medium=api&utm_source=6b725f98&v=020F3544A1CBB095BCCA960275856710FB22D76A",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.pl/details/5726957205?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5719986155",
@@ -287,12 +247,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-06",
-      "posted_display": "8 days ago",
+      "posted_display": "9 days ago",
       "summary": "At TechBiz Global, we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a VP/AVP – Business Development to join one of our clients ' teams. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the perfect fit for you. This role …",
       "match_reason": "Revenue — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5719986155?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5727299028",
@@ -307,12 +267,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "25k – 200k",
       "posted_date": "2026-05-12",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Location: Greater London Area, UK (Remote) Sector: Enterprise SaaS / MarTech / Digital Experience Compensation: c. £120k base commission About the Client Our client is a leading European AI-driven experimentation and personalization platform , empowering major brands to create better products and deliver exceptional di…",
       "match_reason": "Ecommerce — Director | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5727299028?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
+    },
+    {
+      "id": "adzuna_5729780062",
+      "title": "Commercial Director – Poland",
+      "company": "DroneShield",
+      "location": "Warszawa, mazowieckie",
+      "location_type": "On-site",
+      "tier": "tier-1",
+      "score": 80,
+      "function": "Revenue",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "Not specified",
+      "posted_date": "2026-05-14",
+      "posted_display": "Today",
+      "summary": "About the role DroneShield is seeking an experienced Commercial Director with a strong background in sales and business development to join its global commercial organisation. This role will be based in Warsaw, Poland and will play a critical role in expanding DroneShield’s footprint across Poland and adjacent regions.…",
+      "match_reason": "Revenue — Director | Score 80/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.pl/details/5729780062?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5725943678",
@@ -327,12 +307,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "100k – 100k",
       "posted_date": "2026-05-11",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Marketing Director (VP Sales & Marketing or Head of Sales & Marketing also considered) Northern England | Hybrid A board-level marketing leadership role at a profitable, founder-led UK technology business at a defining commercial moment. About the company A UK-based, AI-led data and technology business serving the publ…",
       "match_reason": "Revenue — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5725943678?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5722171838",
@@ -347,12 +327,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-07",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "Docplanner is a healthtech company on a mission to help people live longer, healthier lives. We build technology that improves how patients access care and how healthcare professionals deliver it. Operating in 13 countries, with more than 100 million patient visits to our websites and around 25 million appointments boo…",
       "match_reason": "Growth — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5722171838?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5725814203",
@@ -367,18 +347,18 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "120k – 120k",
       "posted_date": "2026-05-11",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Remote or hybrid remote/London office About us: We’re a fast growing AI startup on a mission to help midmarket businesses transform how work gets done. We’ve built a factory for custom operations agents. The factory builds Virtual Agents: software workers with AI reasoning that complete complex workflows end-to-end, di…",
       "match_reason": "Product — VP | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5725814203?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
-      "id": "adzuna_5728951030",
+      "id": "adzuna_5729053682",
       "title": "Chief Assessment & Quality Officer (CAQO)",
       "company": "Royal College of Physicians",
-      "location": "South East London, London",
+      "location": "London, UK",
       "location_type": "Hybrid",
       "tier": "tier-2",
       "score": 77,
@@ -387,12 +367,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "95k – 95k",
       "posted_date": "2026-05-14",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "Working hours full time (35 hours a week, Monday - Friday) Location London, hybrid homeworking (minimum 6 days a month in office) The Federation of the Royal Colleges of Physicians of the UK plays a pivotal role in shaping the future of physician training and standards across the UK and internationally. Through our wor…",
       "match_reason": "Operations — C-Level | Score 77/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728951030?se=nLL6o3BP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=F81518A54F2E57990CF6031542636C88583D0975",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/details/5729053682?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728563762",
@@ -407,52 +387,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "95k – 95k",
       "posted_date": "2026-05-14",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "Working hours full time (35 hours a week, Monday - Friday) Location London, hybrid homeworking (minimum 6 days a month in office) The Federation of the Royal Colleges of Physicians of the UK plays a pivotal role in shaping the future of physician training and standards across the UK and internationally. Through our wor…",
       "match_reason": "Operations — C-Level | Score 77/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728563762?se=nLL6o3BP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=E3AC515C05539ADB9DB362257FE0E485740A78E2",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5728551734",
-      "title": "Chief Operating Officer",
-      "company": "The Royal College of Physicians",
-      "location": "London, UK",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 77,
-      "function": "Operations",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "90k – 90k",
-      "posted_date": "2026-05-13",
-      "posted_display": "Today",
-      "summary": "Working hours – full time (35 hours a week, Monday - Friday) Location – London, hybrid homeworking (minimum 6 days a month in office) The Federation of the Royal Colleges of Physicians of the UK plays a pivotal role in shaping the future of physician training and standards across the UK and internationally. Through our…",
-      "match_reason": "Operations — C-Level | Score 77/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728551734?se=nLL6o3BP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=86E8A159C49A882F82C6106ABA8B8D5ABDC61683",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5728551736",
-      "title": "Chief Assessment & Quality Officer (CAQO)",
-      "company": "The Royal College of Physicians",
-      "location": "London, UK",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 77,
-      "function": "Operations",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "90k – 90k",
-      "posted_date": "2026-05-13",
-      "posted_display": "Today",
-      "summary": "Working hours – full time (35 hours a week, Monday - Friday) Location – London, hybrid homeworking (minimum 6 days a month in office) The Federation of the Royal Colleges of Physicians of the UK plays a pivotal role in shaping the future of physician training and standards across the UK and internationally. Through our…",
-      "match_reason": "Operations — C-Level | Score 77/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728551736?se=nLL6o3BP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=9EDD21B19C8740F301A2610ECC5A9A259AA4A63C",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728563762?se=1OXMVDtQ8RGD8MZJ4ev-Ow&utm_medium=api&utm_source=6b725f98&v=E3AC515C05539ADB9DB362257FE0E485740A78E2",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728217918",
@@ -467,12 +407,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "90k – 90k",
       "posted_date": "2026-05-13",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "Working hours &ndash; full time (35 hours a week, Monday - Friday) Location &ndash; London, hybrid homeworking (minimum 6 days a month in office) The Federation of the Royal Colleges of Physicians of the UK plays a pivotal role in shaping the future of physician training and standards across the UK and internationally.…",
       "match_reason": "Operations — C-Level | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5728217918?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728210901",
@@ -487,12 +427,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "90k – 90k",
       "posted_date": "2026-05-13",
-      "posted_display": "Today",
+      "posted_display": "2 days ago",
       "summary": "Working hours – full time (35 hours a week, Monday - Friday) Location – London, hybrid homeworking (minimum 6 days a month in office) The Federation of the Royal Colleges of Physicians of the UK plays a pivotal role in shaping the future of physician training and standards across the UK and internationally. Through our…",
       "match_reason": "Operations — C-Level | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5728210901?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728210603",
@@ -507,32 +447,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "90k – 90k",
       "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Working hours – full time (35 hours a week, Monday - Friday) Location – London, hybrid homeworking (minimum 6 days a month in office) The Federation of the Royal Colleges of Physicians of the UK plays a pivotal role in shaping the future of physician training and standards across the UK and internationally. Through our…",
       "match_reason": "Operations — C-Level | Score 77/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728210603?se=nLL6o3BP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=29D241733CFF9F9FD40D4D04DC4E973CDE00C3BD",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5728195858",
-      "title": "Chief Operating Officer",
-      "company": "St Giles Trust",
-      "location": "Camberwell, South East London",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 77,
-      "function": "Operations",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "100k – 110k",
-      "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
-      "summary": "Hybrid with 1-2 days per week in London (Camberwell) St Giles Trust is a national charity and a global leader in using lived experience to drive meaningful social change. For over 60 years, they have worked with people held back by poverty, exploitation, abuse, or the criminal justice system, supporting them to transfo…",
-      "match_reason": "Operations — C-Level | Score 77/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728195858?se=nLL6o3BP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=EECE88BB25EF857AC056425CC88A0FE9DD65BD08",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/details/5728210603?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728199835",
@@ -547,12 +467,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "180k – 200k",
       "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Our client is seeking to appoint a Chief Operating Officer to play a pivotal role in driving the company's operational performance, commercial growth, and wider business strategy. The role will have a strong focus on enhancing operational efficiency, improving cross-functional alignment, and supporting the company's br…",
       "match_reason": "Operations — C-Level | Score 75/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5728199835?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5727329625",
@@ -567,12 +487,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "130k – 155k",
       "posted_date": "2026-05-12",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "VP/ Head of Marketing / Marketing Director (AI / Voice Tech) Location: Remote - UK or Germany ONLY (with quarterly travel to Berlin - 1 week duration) Compensation: £130K - £155K equity This is a high-growth, venture-backed AI company operating at the forefront of the voice AI space. They’ve built a strong product and …",
       "match_reason": "Marketing — Head | Score 73/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5727329625?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728393888",
@@ -587,12 +507,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "56k – 56k",
       "posted_date": "2026-05-13",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "Jensten Network offers insurance professionals and independent insurance brokers flexible pathways to build, grow and exit their own successful brokerages. Building on the success of the Coversure franchise model, we provide brokers with the platform to offer excellent advice, whether that be operating locally or in sp…",
       "match_reason": "Growth — Head | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5728393888?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5727320446",
@@ -607,12 +527,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "56k – 56k",
       "posted_date": "2026-05-12",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Client Experience Director | Award-Winning Global Experience Agency South London Based Office based/ 1 day a week from home ( hybrid) Competitive Salary Are you a senior strategic leader who believes that people and profit should never be a trade-off? We are representing an independently owned, world-class experience p…",
       "match_reason": "Marketing — Director | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5727320446?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5720616219",
@@ -627,12 +547,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "104k – 104k",
       "posted_date": "2026-05-06",
-      "posted_display": "8 days ago",
+      "posted_display": "9 days ago",
       "summary": "Ecommerce Account Director, 3 Month Contract Location: Hybrid, 2 to 3 days per week in Central London Start: Within 2 to 3 weeks Introduction I'm working with a leading global agency that is looking to hire an Ecommerce Account Director on a 3 month contract. This is a hybrid role, requiring 2 to 3 days per week in the…",
       "match_reason": "Ecommerce — Director | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5720616219?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5726696163",
@@ -647,12 +567,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-12",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Director of Growth Paris (Hybrid) €80k–€100k bonus (flexible for top talent) You’ve scaled channels. Now you want to own the system. Most growth roles today fall into one of two camps: You’re stuck running a single channel Or you’re “leading growth” without real control This role is different. You’ll take over a fast-g…",
       "match_reason": "Growth — Director | Score 68/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/land/ad/5726696163?se=1uWLoHBP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=1FF229507159CBA9340922B1016D28A56BFB5755",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.fr/land/ad/5726696163?se=_PxsUjtQ8RG_tKoQFHSFHg&utm_medium=api&utm_source=6b725f98&v=1FF229507159CBA9340922B1016D28A56BFB5755",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5723095396",
@@ -667,12 +587,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "300k – 300k",
       "posted_date": "2026-05-08",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "VP Marketing / Customer Acquisition - MASSACHUSETTS - UNITED STATES Work Experience (Years ) - 10-25 Remote Status - No Remote (hybrid 3 day wfo) Sponsor - No Degree - University - Bachelor's Degree/3-4 Year Degree Relocation Paid - No Recruit From - Local Job Description We have been retained by our client to find the…",
       "match_reason": "Marketing — VP | Score 67/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5723095396?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728129462",
@@ -687,32 +607,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "51k – 51k",
       "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Job Title: Head of Trade Marketing (Hybrid) Location: Watford WD24 7RY, hybrid Salary: Negotiable dependant on experience Hours of work: Core hours of work for our business are Monday to Friday 08:30-17:00 (40 hours) however this can be done on a Hybrid basis with 2/3 days in the office per week. If you're a trade and …",
       "match_reason": "Ecommerce — Head | Score 65/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728129462?se=6NXbrXBP8RGWTMrFp3SO-w&utm_medium=api&utm_source=6b725f98&v=1F038F47FA018BCBFD1EC374FD31DFDE2C130CCC",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5728742717",
-      "title": "Sales Director",
-      "company": "Dunwall",
-      "location": "Edinburgh, Scotland",
-      "location_type": "Hybrid",
-      "tier": "tier-3",
-      "score": 63,
-      "function": "Revenue",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "100k – 100k",
-      "posted_date": "2026-05-14",
-      "posted_display": "Today",
-      "summary": "Sales Director Location: Flexible UK Based - Remote / Hybrid Working Salary: £80,000 - £100,000 per annum Uncapped Commission! Contract: Full time, Permanent Benefits: Base salary £80,000-£100,000 depending on experience Uncapped commission structure Additional accelerators based on performance Established portfolio of…",
-      "match_reason": "Revenue — Director | Score 63/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728742717?se=rN0cl3BP8RGIq_s3YGYntA&utm_medium=api&utm_source=6b725f98&v=50F61C71DDAECD846A6262290DE2FEA31BC8A0C1",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728129462?se=NH0EXTtQ8RGvRdzWr1oxfA&utm_medium=api&utm_source=6b725f98&v=1F038F47FA018BCBFD1EC374FD31DFDE2C130CCC",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728211770",
@@ -727,12 +627,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "100k – 100k",
       "posted_date": "2026-05-13",
-      "posted_display": "Today",
+      "posted_display": "2 days ago",
       "summary": "Sales Director Location: Flexible UK Based – Remote / Hybrid Working Salary: £80,000 - £100,000 per annum Uncapped Commission! Contract: Full time, Permanent Benefits: * Base salary £80,000–£100,000 depending on experience * Uncapped commission structure * Additional accelerators based on performance * Established port…",
       "match_reason": "Revenue — Director | Score 63/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728211770?se=rN0cl3BP8RGIq_s3YGYntA&utm_medium=api&utm_source=6b725f98&v=90890CE98F8D5379EB43855F5E96C3E37160BD27",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/details/5728211770?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5722055635",
@@ -747,12 +647,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-07",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "Role highlights Department: Mission Sales - Missions Line of Business Location: France Reports to : VP of Mission Sales Employment type: Permanent Working type: Remote/Hybrid Employment is subject to applicable security screening (incl. SUPO, where required) The Mission of the Missions Sales Director: Lead sovereign sa…",
       "match_reason": "Revenue — Director | Score 63/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.fr/details/5722055635?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728111889",
@@ -767,12 +667,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "76k – 76k",
       "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "SALES DIRECTOR - Light Steel Frame (Pre-panelised Load Bearing, SFS & Infill) Remote / Field-Based | National Travel Required £85k Basic Bonus Car/Allowance (£100k Package) Overview A leading off-site construction and light steel framing business is seeking a commercially driven Sales Director to lead strategic growth …",
       "match_reason": "Growth — Director | Score 63/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5728111889?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728105470",
@@ -787,12 +687,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "77k – 77k",
       "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "SALES DIRECTOR - Light Steel Frame (Pre-panelised Load Bearing, SFS & Infill) Remote / Field-Based | National Travel Required £85k Basic Bonus Car/Allowance (£100k Package) Overview A leading off-site construction and light steel framing business is seeking a commercially driven Sales Director to lead strategic growth …",
       "match_reason": "Growth — Director | Score 63/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728105470?se=Mr_en3BP8RGWTMrFp3SO-w&utm_medium=api&utm_source=6b725f98&v=6B55CD37A39561E66B478E02F68D0257ECF34456",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/details/5728105470?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5721184365",
@@ -807,12 +707,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-07",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "WHY JOIN US? At Betclic, success comes from passionate and committed teams. Here's why you'll love working with us: An international and creative environment where every project is an opportunity to innovate Hypergrowth that brings new challenges and development opportunities every day A healthy work-life balance: flex…",
       "match_reason": "Product — Head | Score 62/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.fr/details/5721184365?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728130731",
@@ -827,12 +727,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "80k – 110k",
       "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Head of Product (Engineering / Technical) Tewkesbury / remote hybrid - £80,000 - £110,000 This is a great opportunity for a Head of Product / VP of Product / Product Director to join one of the fastest growing and most exciting technology companies in the area. The role will initially focus on direct product delivery, …",
       "match_reason": "Product — Head | Score 60/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728130731?se=Sk_xmXBP8RGWTMrFp3SO-w&utm_medium=api&utm_source=6b725f98&v=1CB14B1EB27C8AFA0DD8A237B5988A706307EA42",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728130731?se=JGtyTTtQ8RGm86Yk3cufww&utm_medium=api&utm_source=6b725f98&v=1CB14B1EB27C8AFA0DD8A237B5988A706307EA42",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5728643846",
@@ -847,32 +747,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "100k – 100k",
       "posted_date": "2026-05-14",
-      "posted_display": "Today",
-      "summary": "HeadofProduct(Engineering/Technical) Tewkesbury/remotehybrid-£80,000-£110,000 ThisisagreatopportunityforaHeadofProduct/VPofProduct/ProductDirectortojoinoneofthefastestgrowingandmostexcitingtechnologycompaniesinthearea. Therolewillinitiallyfocusondirectproductdelivery,withtheaimofbuildingouttheteamasthecompanygrows. The…",
-      "match_reason": "Product — Head | Score 60/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5728643846?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-14"
-    },
-    {
-      "id": "adzuna_5728206811",
-      "title": "Head of Product",
-      "company": "Granite Recruitment and Consulting",
-      "location": "Northway, Tewkesbury",
-      "location_type": "On-site",
-      "tier": "tier-3",
-      "score": 60,
-      "function": "Product",
-      "seniority": "Head",
-      "language": "English",
-      "salary": "100k – 100k",
-      "posted_date": "2026-05-13",
       "posted_display": "1 day ago",
       "summary": "HeadofProduct(Engineering/Technical) Tewkesbury/remotehybrid-£80,000-£110,000 ThisisagreatopportunityforaHeadofProduct/VPofProduct/ProductDirectortojoinoneofthefastestgrowingandmostexcitingtechnologycompaniesinthearea. Therolewillinitiallyfocusondirectproductdelivery,withtheaimofbuildingouttheteamasthecompanygrows. The…",
       "match_reason": "Product — Head | Score 60/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5728206811?se=Bvr6nHBP8RG3Bb6WvjCuEA&utm_medium=api&utm_source=6b725f98&v=50D54CD4D06FB41D2CFE00CD5044AE89082775AC",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/details/5728643846?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-15"
     },
     {
       "id": "adzuna_5727631044",
@@ -887,12 +767,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "84k – 89k",
       "posted_date": "2026-05-13",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Head of Strategic Planning Location: The Lumen, St James' Boulevard, Newcastle upon Tyne, various ‘spoke’ offices throughout the North East and remote working arrangements. Salary: SM3. £83,633 - £88,633 per annum . (Please note it is North East CA policy to appoint at the starting point of the salary band). Contract: …",
       "match_reason": "Growth — Head | Score 60/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5727631044?se=rBAlonBP8RGXMO4k8opuwg&utm_medium=api&utm_source=6b725f98&v=8A7BE3626C73DE3399D44817909900ED6A785EB5",
-      "fetch_date": "2026-05-14"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5727631044?se=PtezUztQ8RGD8MZJ4ev-Ow&utm_medium=api&utm_source=6b725f98&v=8A7BE3626C73DE3399D44817909900ED6A785EB5",
+      "fetch_date": "2026-05-15"
     }
   ]
 };
