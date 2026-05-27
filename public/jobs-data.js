@@ -1,8 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-05-26T10:02:08.917Z",
-    "today": "2026-05-26",
-    "total_jobs": 16,
+    "last_updated": "2026-05-27T09:57:21.194Z",
+    "today": "2026-05-27",
+    "total_jobs": 20,
     "sources_used": [
       "Adzuna"
     ],
@@ -27,12 +27,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-23",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "pubGENIUS is an elite React.js and Next.js development company and AdTech startup building web and AI products for clients across the US and Europe. We don’t compete on low-cost development cycles; we operate as a long-term, high-reliability engineering partner for brands in the Fintech, Healthcare, AI, and Enterprise …",
       "match_reason": "Growth — Director | Score 88/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5738168591?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
+    },
+    {
+      "id": "adzuna_5733764637",
+      "title": "Chief Revenue Officer (CRO)",
+      "company": "Syntho",
+      "location": "Amsterdam, Noord-Holland",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 85,
+      "function": "Revenue",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "Not specified",
+      "posted_date": "2026-05-19",
+      "posted_display": "8 days ago",
+      "summary": "Amsterdam (Hybrid), Full-time or Part-time (Fractional, and in consultation) About Syntho When real data is sensitive, missing or problematic - turn to synthetic data ! Syntho is an Amsterdam-based start-up enabling organizations to safely and efficiently work with privacy-preserving, production-like data. Our mission …",
+      "match_reason": "Revenue — C-Level | Score 85/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.nl/details/5733764637?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5734599942",
@@ -47,12 +67,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-20",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "Who you are Experience & Craft You have 8 years in product or UX design with substantial time in senior roles. You've shipped B2B products and understand what exceptional fintech UX looks like. Your portfolio demonstrates end-to-end ownership from concept to production with clear iteration based on feedback. AI Prototy…",
       "match_reason": "Product — Head | Score 85/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.pl/land/ad/5734599942?se=riHxwulY8RGC960FA9Gm6Q&utm_medium=api&utm_source=6b725f98&v=1CD08BF6C6E72E8590B8335F49B06B892EEC8956",
-      "fetch_date": "2026-05-26"
+      "link": "https://www.adzuna.pl/land/ad/5734599942?se=QMUKS7JZ8RG1W5D6L3mivQ&utm_medium=api&utm_source=6b725f98&v=1CD08BF6C6E72E8590B8335F49B06B892EEC8956",
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5738112537",
@@ -67,12 +87,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-22",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Chief Operating Officer in Poland. In this senior leadership role, you will oversee end-to-end business operations across multiple functions including marketing, IT, sales, finance, and organizational performance. You wi…",
       "match_reason": "Operations — C-Level | Score 83/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5738112537?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5739866548",
@@ -87,12 +107,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-24",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Director of Sales & Distribution Miejsce pracy: Warszawa Your responsibilities The Director of Sales & Distribution leads all sales and distribution efforts on behalf of the hotel. They provide day to day leadership to sales associates to achieve property sales objectives with overall responsibility for achieving booki…",
       "match_reason": "Revenue — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5739866548?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5739481573",
@@ -107,12 +127,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-24",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Additional Information Job Number 26062812 Job Category Sales & Marketing Location Hotel Bristol a Luxury Collection Hotel Warsaw, Krakowskie Przedmiescie 42/44, Warsaw, Poland, Poland, 00-325 VIEW ON MAP (https://www.google.com/maps?q=Hotel%20Bristol%20a%20Luxury%20Collection%20Hotel%20Warsaw%2C%20Krakowskie%20Przedmi…",
       "match_reason": "Revenue — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5739481573?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5732352045",
@@ -127,12 +147,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "200k – 400k",
       "posted_date": "2026-05-17",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "About AIOS AIOS is building the first vertically integrated AI doctor in Europe. We’re at >$250M ARR, serving >100k/mo patients, growing >10x YoY. We’re Europe’s fastest growing healthcare company. We’re profitable. As our wedge into the European healthcare system we’re using GLP-1s, the fastest growing consumer produc…",
       "match_reason": "Product — Head | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5732352045?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5739738835",
@@ -147,37 +167,17 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "38k – 209k",
       "posted_date": "2026-05-24",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "End Date Thursday 04 June 2026 Salary Range £167,552 - £209,440 We support flexible working – click here for more information on flexible working options Flexible Working Options Hybrid Working, Job Share Job Description Summary . Job Description JOB TITLE: Head of AI Productivity Lead SALARY: £37,848 - £209,440 LOCATI…",
       "match_reason": "Product — Head | Score 75/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5739738835?se=Vj6oxOlY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=6b725f98&v=74DCD863C83E28609C4751E735DE8DDBD07AC654",
-      "fetch_date": "2026-05-26"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5739738835?se=kpx8S7JZ8RGuY9xlWzGbVg&utm_medium=api&utm_source=6b725f98&v=74DCD863C83E28609C4751E735DE8DDBD07AC654",
+      "fetch_date": "2026-05-27"
     },
     {
-      "id": "adzuna_5740182067",
+      "id": "adzuna_5741294567",
       "title": "Chief Operating Officer",
-      "company": "Summit Rec2Rec",
-      "location": "The City, Central London",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 75,
-      "function": "Operations",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "100k – 100k",
-      "posted_date": "2026-05-25",
-      "posted_display": "1 day ago",
-      "summary": "Chief Operating Officer (COO) London | Hybrid Working (3 Days Onsite) Circa £120k Base Executive Compensation Package ⭐ Ideal Candidate: 10 years Big 4 Consulting, Strategy, Operations & Transformation Summit Rec2Rec is partnered with a high-growth consultancy and executive search business undergoing a major scaling an…",
-      "match_reason": "Operations — C-Level | Score 75/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5740182067?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
-    },
-    {
-      "id": "adzuna_5740181555",
-      "title": "Chief Operating Officer",
-      "company": "Summit Rec2Rec",
+      "company": "Wellcome Trust",
       "location": "London, UK",
       "location_type": "Hybrid",
       "tier": "tier-2",
@@ -185,34 +185,54 @@ window.JOBS_DATA = {
       "function": "Operations",
       "seniority": "C-Level",
       "language": "English",
-      "salary": "99k – 99k",
-      "posted_date": "2026-05-25",
+      "salary": "119k – 119k",
+      "posted_date": "2026-05-26",
       "posted_display": "1 day ago",
-      "summary": "Chief Operating Officer (COO) London | Hybrid Working (3 Days Onsite) Circa £120k Base Executive Compensation Package ⭐ Ideal Candidate: 10 years Big 4 Consulting, Strategy, Operations & Transformation Summit Rec2Rec is partnered with a high-growth consultancy and executive search business undergoing a major scaling an…",
+      "summary": "Reporting to: Chief Executive Officer Contract: Permanent Location: London, with regular travel to Hinxton, Cambridgeshire Salary: £150,000 - £170,000 dependant on experience Hybrid working: At least two days a week on site Closing date: Sunday 31st May 2026 Interviews: Mid-End June The Health Data Research Service (HD…",
       "match_reason": "Operations — C-Level | Score 75/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5740181555?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "link": "https://www.adzuna.co.uk/jobs/details/5741294567?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-27"
     },
     {
-      "id": "adzuna_5740883673",
-      "title": "Client Director",
-      "company": "Mobkoi",
-      "location": "London, UK",
+      "id": "adzuna_5741760720",
+      "title": "Head of AI Automation & Growth / AI Growth Lead",
+      "company": "NOMADS TALENTS",
+      "location": "Ile-de-France, France",
+      "location_type": "Remote",
+      "tier": "tier-3",
+      "score": 72,
+      "function": "Growth",
+      "seniority": "Head",
+      "language": "English",
+      "salary": "Not specified",
+      "posted_date": "2026-05-27",
+      "posted_display": "Today",
+      "summary": "Full Remote — CDI / Freelance évolutif / Associé possible Startup IA internationale Full remote worldwide Rémunération attractive possibilité d'equity Rejoignez une startup IA déjà lancée, avec produit finalisé et lancement commercial immédiat. Confidentia développe une nouvelle génération de plateforme IA conversation…",
+      "match_reason": "Growth — Head | Score 72/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.fr/details/5741760720?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-27"
+    },
+    {
+      "id": "adzuna_5737751546",
+      "title": "Commercial Director",
+      "company": "Tops Day Nurseries",
+      "location": "Southbourne, Bournemouth",
       "location_type": "Hybrid",
       "tier": "tier-2",
-      "score": 70,
+      "score": 71,
       "function": "Revenue",
       "seniority": "Director",
       "language": "English",
-      "salary": "64k – 64k",
-      "posted_date": "2026-05-26",
-      "posted_display": "Today",
-      "summary": "Location : London / hybrid 3 days Language : English good spoken French/German would also be an advantage. Department : Client Direct, Sales Salary : Competitive Level : Senior Start Date: 1 August, 2026 COMPANY OVERVIEW MOBKOI is a fast-growing mobile company headquartered in London, with offices across central Europe…",
-      "match_reason": "Revenue — Director | Score 70/100",
+      "salary": "83k – 83k",
+      "posted_date": "2026-05-22",
+      "posted_display": "5 days ago",
+      "summary": "Location: Southbourne, Dorset & hybrid Salary: Competitive Contract: Permanent / Full-time Why Join Tops Day Nurseries? At Tops Day Nurseries, we’ve been shaping futures since 1990. As the UK’s largest employee-owned childcare group, we know that valuing people is the key to success. When you join us, you become more t…",
+      "match_reason": "Revenue — Director | Score 71/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5740883673?se=MiZttOlY8RGTDdJK-7cL6w&utm_medium=api&utm_source=6b725f98&v=B1F5842F3637A7AE9711B99170EE6AAAA3E93619",
-      "fetch_date": "2026-05-26"
+      "link": "https://www.adzuna.co.uk/jobs/details/5737751546?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5738644644",
@@ -227,12 +247,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-23",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Job Title: Head of Product Design Industry: FinTech / Crypto Location: Paris, Genève ou Remote Salary: Jusqu’à 80K€ CDI equity Avec $7.5M levés et une équipe resserrée de 10 talents, cette startup FinTech & Crypto construit une application mobile tout-en-un permettant aux utilisateurs d’investir, trader et interagir av…",
       "match_reason": "Product — Head | Score 70/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/land/ad/5738644644?se=ekoLyOlY8RGamNhV_PxIaw&utm_medium=api&utm_source=6b725f98&v=B638DFF1AF307A762E3EEE1B049309546F7B1A18",
-      "fetch_date": "2026-05-26"
+      "link": "https://www.adzuna.fr/land/ad/5738644644?se=3vGxTLJZ8RG_sZ1Fp6owxg&utm_medium=api&utm_source=6b725f98&v=B638DFF1AF307A762E3EEE1B049309546F7B1A18",
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5741100164",
@@ -247,12 +267,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-26",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "Type de contrat : CDI ou Freelance. Temps de travail : Temps plein, ou temps partiel (3/5 ou 4/5) possible. Rémunération : Fixe variable déplafonné indexé sur objectifs. Rattachement : Founder. Séniorité : 5 à 8 ans d'expérience growth B2B. Localisation : Full-remote ou Paris Contexte Vous rejoignez un groupe à deux ac…",
       "match_reason": "Growth — Head | Score 70/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/land/ad/5741100164?se=wlXr1elY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=6b725f98&v=2479B4865BE908DBC213E244A9260C2C0C8D984C",
-      "fetch_date": "2026-05-26"
+      "link": "https://www.adzuna.fr/land/ad/5741100164?se=wJIwVbJZ8RG_sZ1Fp6owxg&utm_medium=api&utm_source=6b725f98&v=2479B4865BE908DBC213E244A9260C2C0C8D984C",
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5740498437",
@@ -267,12 +287,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "216k – 300k",
       "posted_date": "2026-05-25",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "About Us Hyprwork is a fast-growing operator of direct-to-consumer brands in health and wellness. Our flagship brand, Rejuvacare, serves over 400,000 customers who trust us with their health and their money. We ship primarily to the United States, offer a 90-day money-back guarantee, and run a RejuvaCare membership pro…",
       "match_reason": "Marketing — C-Level | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5740498437?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5740827275",
@@ -287,12 +307,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "54k – 54k",
       "posted_date": "2026-05-26",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "?? Position Title: EMEA eCommerce Marketing & Content Director ?? Location: Lyon, FRANCE or Maidenhead, ENGLAND ?? Work Arrangement: Hybrid - travel: 20% ? Employment: Permanent ?? Come make the world and accelerate your success. It takes great people to achieve greatness. People with a sense of purpose and integrity. …",
       "match_reason": "Ecommerce — Director | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5740827275?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
+    },
+    {
+      "id": "adzuna_5741846764",
+      "title": "EMEA Ecommerce Marketing & Content Director H/F",
+      "company": "Black & Decker Europe",
+      "location": "Champagne-au-Mont-d'Or, Lyon",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 70,
+      "function": "Ecommerce",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "Not specified",
+      "posted_date": "2026-05-27",
+      "posted_display": "Today",
+      "summary": "Position Title:EMEA eCommerce Marketing & Content Director Location:Lyon, FRANCE or Maidenhead, ENGLAND Work Arrangement:Hybrid - travel: 20% Employment:Permanent Come make the world and accelerate your success. It takes great people to achieve greatness. People with a sense of purpose and integrity. People with a rele…",
+      "match_reason": "Ecommerce — Director | Score 70/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.fr/land/ad/5741846764?se=zlV_Z7JZ8RGuY9xlWzGbVg&utm_medium=api&utm_source=6b725f98&v=D5ED432FED703934214E8DB497D3ADC0B4E208BF",
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5738645163",
@@ -307,12 +347,52 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-05-23",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Position Title: EMEA eCommerce Marketing & Content Director Location: Lyon, FRANCE or Maidenhead, ENGLAND Work Arrangement: Hybrid – travel: 20% ✒ Employment: Permanent Come make the world and accelerate your success. It takes great people to achieve greatness. People with a sense of purpose and integrity. People with …",
       "match_reason": "Ecommerce — Director | Score 70/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/land/ad/5738645163?se=Sjjl6elY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=6b725f98&v=CAEA445AA8396A3CA913B6F9EFF82BFC6AE54C09",
-      "fetch_date": "2026-05-26"
+      "link": "https://www.adzuna.fr/land/ad/5738645163?se=zlV_Z7JZ8RGuY9xlWzGbVg&utm_medium=api&utm_source=6b725f98&v=CAEA445AA8396A3CA913B6F9EFF82BFC6AE54C09",
+      "fetch_date": "2026-05-27"
+    },
+    {
+      "id": "adzuna_5741214479",
+      "title": "Strategic Clients Director",
+      "company": "Nuffield Health",
+      "location": "UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 68,
+      "function": "Growth",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "59k – 59k",
+      "posted_date": "2026-05-26",
+      "posted_display": "1 day ago",
+      "summary": "Strategic Clients Director Barbican, London | Hybrid Working (1–2 days) | Permanent | Full Time Competitive salary available, depending on experience 37.5 hours per week Nuffield Health is the UK’s largest health charity, committed to building a healthier nation. We are now seeking a commercially driven Strategic Clien…",
+      "match_reason": "Growth — Director | Score 68/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/details/5741214479?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-05-27"
+    },
+    {
+      "id": "adzuna_5741138319",
+      "title": "Sales Director",
+      "company": "AXCO",
+      "location": "The City, Central London",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 68,
+      "function": "Growth",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "92k – 92k",
+      "posted_date": "2026-05-26",
+      "posted_display": "1 day ago",
+      "summary": "Sales Director Location: Hybrid / London office EC4R, 2 days per week (Tuesday and Wednesday) Salary: £115,000 per annum DoE 40% commission Contract Type: Full Time, Permanent What We Can Offer You: 25 Days Annual Leave (Pro-Rata), Additional Holiday Purchase, Hybrid Working, Performance-Related Bonus, Life Assurance, …",
+      "match_reason": "Growth — Director | Score 68/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5741138319?se=ejKWT7JZ8RG1W5D6L3mivQ&utm_medium=api&utm_source=6b725f98&v=2C6F86F177CE140B766ABCA948A3B20E9D52C4EF",
+      "fetch_date": "2026-05-27"
     },
     {
       "id": "adzuna_5740498435",
@@ -327,12 +407,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "216k – 300k",
       "posted_date": "2026-05-25",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "About Us Hyprwork is a fast-growing operator of direct-to-consumer brands in health and wellness. Our flagship brand, Rejuvacare, serves over 400,000 customers who trust us with their health and their money. We ship primarily to the United States, offer a 90-day money-back guarantee, and run a RejuvaCare membership pro…",
       "match_reason": "Marketing — VP | Score 67/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5740498435?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-05-26"
+      "fetch_date": "2026-05-27"
     }
   ]
 };
