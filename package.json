@@ -6,7 +6,13 @@
   "scripts": {
     "fetch": "node --env-file=.env fetch-jobs.js"
   },
-  "keywords": ["job-discovery", "dashboard"],
+  "keywords": [
+    "job-discovery",
+    "dashboard"
+  ],
   "author": "Valentin Houssais",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/edge": "^1.3.1"
+  }
 }
