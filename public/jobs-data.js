@@ -1,8 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-06-28T08:55:49.129Z",
-    "today": "2026-06-28",
-    "total_jobs": 24,
+    "last_updated": "2026-06-29T11:04:31.588Z",
+    "today": "2026-06-29",
+    "total_jobs": 21,
     "sources_used": [
       "Adzuna"
     ],
@@ -27,12 +27,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "204k – 300k",
       "posted_date": "2026-06-19",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "We are looking for a COO / CTO Co-founder to co-build an AI-driven startup focused on automating accounting and financial operations for modern businesses. This is a hands-on founder role, not a corporate executive position. You will be responsible for shaping both the technological and operational foundations of the c…",
       "match_reason": "Product — C-Level | Score 95/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.pl/land/ad/5768850328?se=_OiXEc9y8RG03p_b2NRIZw&utm_medium=api&utm_source=6b725f98&v=66CB51CFDA2CC2DE6FD880DFA3444AD3DC7A93C9",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.pl/land/ad/5768850328?se=WANrMqpz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=6b725f98&v=66CB51CFDA2CC2DE6FD880DFA3444AD3DC7A93C9",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5777754033",
@@ -47,32 +47,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-06-26",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "LearnWorlds is a profitable, product-led SaaS company helping creators, educators, training businesses, and organizations in more than 150 countries create, sell, deliver, and scale online learning experiences. Over the last several years, we've built a successful Product-Led Growth (PLG) business serving thousands of …",
       "match_reason": "Revenue — VP | Score 90/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5777754033?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
-    },
-    {
-      "id": "adzuna_5769248790",
-      "title": "Chief Revenue Officer (CRO) – Scale-up DeepTech / GreenTech",
-      "company": "High Flyers",
-      "location": "Toulouse, Haute-Garonne",
-      "location_type": "On-site",
-      "tier": "tier-2",
-      "score": 87,
-      "function": "Revenue",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-06-19",
-      "posted_display": "9 days ago",
-      "summary": "Chief Revenue Officer (CRO) – Scale-up DeepTech / GreenTech (Toulouse) L'entreprise & Le contexte Notre client est un acteur de la tech en forte croissance qui développe des solutions d'aide à la décision publique et environnementale grâce à une technologie hybride (capteurs connectés et traitement de données en temps …",
-      "match_reason": "Revenue — C-Level | Score 87/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.fr/land/ad/5769248790?se=IDnGCs9y8RGe4ZwL0wNS6w&utm_medium=api&utm_source=6b725f98&v=2437194129AA4D128E1877C3BB6A553EB1E2BA03",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5768777300",
@@ -87,12 +67,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-06-19",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "Former Chief Revenue Officer (CRO), Chief Commercial Officer (CCO), Commercial Director, Revenue Director, or equivalent executive leadership role. Proven track record of delivering significant revenue growth and commercial transformation. Demonstrable experience in side payments, payment monetisation, payment optimisa…",
       "match_reason": "Revenue — C-Level | Score 85/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.pl/land/ad/5768777300?se=whIKCs9y8RG03p_b2NRIZw&utm_medium=api&utm_source=6b725f98&v=BF2B5ED1D07235D351C61D24D9396F220B9B7A71",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.pl/land/ad/5768777300?se=WtQXJqpz8RG5wqNxUkLhAA&utm_medium=api&utm_source=6b725f98&v=BF2B5ED1D07235D351C61D24D9396F220B9B7A71",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5778542499",
@@ -107,12 +87,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "276k – 384k",
       "posted_date": "2026-06-27",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "About the Role The Head of Product is a key role responsible for shaping and executing the company’s product strategy in a fast-growing software environment. This position combines strategic thinking with hands-on product leadership, ensuring alignment between product development, business goals, and customer needs. Yo…",
       "match_reason": "Product — Head | Score 83/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.pl/land/ad/5778542499?se=jtc8FM9y8RGe4ZwL0wNS6w&utm_medium=api&utm_source=6b725f98&v=3469E5453E7543D8AF2E9F9BEA8030F177E1171F",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.pl/land/ad/5778542499?se=uNDQNapz8RG5wqNxUkLhAA&utm_medium=api&utm_source=6b725f98&v=3469E5453E7543D8AF2E9F9BEA8030F177E1171F",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5774156195",
@@ -127,32 +107,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-06-24",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "Job Description Role Purpose The COO is responsible for leading the Operations function across the region, translating strategy into execution, and driving continuous improvements in efficiency, quality, and customer experience. Key Responsibilities Operations Leadership: Lead and steer the regional Operations function…",
       "match_reason": "Operations — C-Level | Score 83/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5774156195?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
-    },
-    {
-      "id": "adzuna_5776897281",
-      "title": "Chief-of-Staff for Leadership Team for Anime Jewelry Brand",
-      "company": "Kraymer Art",
-      "location": "Polska",
-      "location_type": "On-site",
-      "tier": "tier-1",
-      "score": 83,
-      "function": "Operations",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-06-26",
-      "posted_display": "2 days ago",
-      "summary": "Role Overview We are hiring a Chief of Staff to be a high-trust operational partner to the founder and Director of Operations of a fast-growing Australia-based anime-inspired jewelry and accessories brand. This role folds in executive support, customer experience oversight, and operations into one position built for so…",
-      "match_reason": "Operations — C-Level | Score 83/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5776897281?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5777724744",
@@ -167,12 +127,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "73k – 73k",
       "posted_date": "2026-06-26",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "LearnWorlds is a profitable, product-led SaaS company helping creators, educators, training businesses, and organizations in more than 150 countries create, sell, deliver, and scale online learning experiences. Over the last several years, we've built a successful Product-Led Growth (PLG) business serving thousands of …",
       "match_reason": "Revenue — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5777724744?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5772108014",
@@ -187,32 +147,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "101k – 101k",
       "posted_date": "2026-06-22",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "Vice President, Onchain Products LONDON, United Kingdom(Hybrid) Job Description Amex Digital Labs' mission is to build the future of payments and membership, creating new value that evolves with our customers' needs and drives deeper engagement and loyalty. We leverage emerging technologies to deliver innovations that …",
       "match_reason": "Product — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5772108014?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
-    },
-    {
-      "id": "adzuna_5768102540",
-      "title": "Senior Business Associate - Vice President - Warsaw",
-      "company": "Citigroup",
-      "location": "Warszawa, mazowieckie",
-      "location_type": "On-site",
-      "tier": "tier-1",
-      "score": 82,
-      "function": "Operations",
-      "seniority": "VP",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-06-18",
-      "posted_display": "10 days ago",
-      "summary": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview The Business Associate i…",
-      "match_reason": "Operations — VP | Score 82/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5768102540?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5769853141",
@@ -227,32 +167,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "75k – 75k",
       "posted_date": "2026-06-19",
-      "posted_display": "8 days ago",
+      "posted_display": "9 days ago",
       "summary": "About Spotted Zebra At Spotted Zebra, we're building something we genuinely believe in: an AI-native end-to-end hiring platform that helps the world's leading organisations find the right people, faster and fairer than ever before. In short, we're making hiring something everyone loves again - both talent teams and can…",
       "match_reason": "Product — Director | Score 81/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5769853141?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
-      "id": "adzuna_5779212140",
-      "title": "Product Director - Logistics",
-      "company": "Ocado Group",
-      "location": "Hatfield, Hertfordshire",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
+      "id": "adzuna_5780604598",
+      "title": "Product Director",
+      "company": "Tripledot Studios",
+      "location": "Warszawa, mazowieckie",
+      "location_type": "On-site",
+      "tier": "tier-1",
       "score": 80,
       "function": "Product",
       "seniority": "Director",
       "language": "English",
-      "salary": "71k – 71k",
-      "posted_date": "2026-06-27",
-      "posted_display": "1 day ago",
-      "summary": "Product Director | Logistics Product | Hybrid Working | Hatfield Introduction: We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pic…",
+      "salary": "Not specified",
+      "posted_date": "2026-06-29",
+      "posted_display": "Today",
+      "summary": "Who are we? Tripledot Studios is one of the largest independent mobile games companies in the world. We are a multi-award-winning organisation, with a global 2,500 strong team across 12 studios. Our expanded portfolio includes some of the biggest titles in mobile gaming, collectively reaching top chart positions around…",
       "match_reason": "Product — Director | Score 80/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5779212140?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.pl/details/5780604598?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5776796788",
@@ -267,12 +207,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-06-25",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Description du poste Que proposons-nous ? Localisation France — Full remote, déplacements occasionnels en Europe Rattachement CEO de DirectSkills — membre du COMEX Encadrement 3 Product Owners en direct Statut Création de poste Contrat CDI — Cadre forfait jour Prise de poste Q4 2026 Langues Français et anglais C2 requi…",
       "match_reason": "Product — C-Level | Score 79/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.fr/details/5776796788?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5774057029",
@@ -287,12 +227,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "100k – 120k",
       "posted_date": "2026-06-24",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "Description du poste Que proposons-nous ? Localisation France — Full remote, déplacements occasionnels en Europe Rattachement CEO de DirectSkills — membre du COMEX Encadrement 3 Product Owners en direct Statut Création de poste Contrat CDI — Cadre forfait jour Prise de poste Q4 2026 Langues Français et anglais C2 requi…",
       "match_reason": "Product — C-Level | Score 79/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.fr/details/5774057029?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
+    },
+    {
+      "id": "adzuna_5780350650",
+      "title": "New Business Development Director",
+      "company": "GSM Conference Services",
+      "location": "London, UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 78,
+      "function": "Revenue",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "80k – 80k",
+      "posted_date": "2026-06-28",
+      "posted_display": "1 day ago",
+      "summary": "Department: Events Team: Sales Location: London Position type: Permanent, Full time, Hybrid (2- 3 days in the office) What the hiring manager says The GSMA runs a highly successful series of Events as well as a burgeoning Media, Data Intelligence, Services and Membership business. We have identified a number of areas w…",
+      "match_reason": "Revenue — Director | Score 78/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/details/5780350650?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5779216073",
@@ -307,12 +267,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "90k – 90k",
       "posted_date": "2026-06-27",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Job Title: Senior Director, Artificial Intelligence (AI) and Data Strategy, TOSI Reporting to: VP Technical Operations, Science & Innovation Location: Macclesfield, UK Hybrid working model - 3 days per week onsite At AstraZeneca, science compels us to push the boundaries of what is possible to turn science into life-ch…",
       "match_reason": "Operations — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5779216073?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5769352298",
@@ -327,12 +287,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "90k – 90k",
       "posted_date": "2026-06-19",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "Customer Growth Director London | Customer Success | Reports to Chief Customer Officer Hybrid Working The Problem We're Solving A fast-growing data & CRM platform business helps companies unlock the value in their first-party data. Our Customer Growth System (CGS) turns messy data into actionable intelligence, driving …",
       "match_reason": "CRM — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5769352298?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5769129326",
@@ -347,32 +307,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "90k – 90k",
       "posted_date": "2026-06-19",
-      "posted_display": "9 days ago",
-      "summary": "Customer Growth Director London | Customer Success | Reports to Chief Customer Officer Hybrid Working The Problem We're Solving A fast-growing data & CRM platform business helps companies unlock the value in their first-party data. Our Customer Growth System (CGS) turns messy data into actionable intelligence, driving …",
-      "match_reason": "CRM — Director | Score 78/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5769129326?se=8hvvJ89y8RGiVqWJe_bADg&utm_medium=api&utm_source=6b725f98&v=A2A7BF767A9B14B8A8A8D8F79CA55D9509D93FC2",
-      "fetch_date": "2026-06-28"
-    },
-    {
-      "id": "adzuna_5768327254",
-      "title": "Customer Growth Director",
-      "company": "Datatech",
-      "location": "Farringdon, Central London",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 78,
-      "function": "CRM",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "61k – 61k",
-      "posted_date": "2026-06-18",
       "posted_display": "10 days ago",
       "summary": "Customer Growth Director London | Customer Success | Reports to Chief Customer Officer Hybrid Working The Problem We're Solving A fast-growing data & CRM platform business helps companies unlock the value in their first-party data. Our Customer Growth System (CGS) turns messy data into actionable intelligence, driving …",
       "match_reason": "CRM — Director | Score 78/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5768327254?se=8hvvJ89y8RGiVqWJe_bADg&utm_medium=api&utm_source=6b725f98&v=173C42C52E34566136559383E4A6E635A5428111",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5769129326?se=ZD8hTapz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=6b725f98&v=A2A7BF767A9B14B8A8A8D8F79CA55D9509D93FC2",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5777921771",
@@ -387,12 +327,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "62k – 62k",
       "posted_date": "2026-06-26",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Head of Analytics | Last Mile | Hybrid Working | Hatfield Introduction We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the single pick, trans…",
       "match_reason": "Product — Head | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5777921771?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5779216436",
@@ -407,12 +347,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "127k – 149k",
       "posted_date": "2026-06-27",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "End Date Thursday 09 July 2026 Salary Range £126,523 - £148,850 We support flexible working – click here for more information on flexible working options Flexible Working Options Hybrid Working, Job Share Job Description Summary A senior leadership role driving how the Chief Digital Office operates - bringing structure…",
       "match_reason": "Operations — Head | Score 75/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5779216436?se=hFWVGs9y8RGiVqWJe_bADg&utm_medium=api&utm_source=6b725f98&v=2737E0E8F602D7B04F229FFD13464EBC04552C7E",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5779216436?se=BBAfPqpz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=6b725f98&v=2737E0E8F602D7B04F229FFD13464EBC04552C7E",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5769257584",
@@ -427,12 +367,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-06-19",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "Sales Director Remote, Europe / Travel Required Company based in Paris, France About the Company Novaris Search is partnered with a leading contract manufacturer specialising in skin care, hair care, body care, and OTC products. With a strong international footprint and partnerships across industry-leading brands, the …",
       "match_reason": "Revenue — Director | Score 72/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/land/ad/5769257584?se=BGL1D89y8RG03p_b2NRIZw&utm_medium=api&utm_source=6b725f98&v=1DA4BD213BD0A2D9AA86EFA5FD982EE41E36E60C",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.fr/land/ad/5769257584?se=4OBnL6pz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=6b725f98&v=1DA4BD213BD0A2D9AA86EFA5FD982EE41E36E60C",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5772658621",
@@ -447,12 +387,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "83k – 83k",
       "posted_date": "2026-06-22",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "VP Enterprise Growth Salary: From £99k per annum Location: Hybrid role with travel to our Clients, London, Northampton or Manchester Type of Role: Remote / Full Time / 9.00-5.30pm / Monday to Friday Closing Date: 5th July 2026 or sooner if right candidate is offered All applicants need to attach a full and relevant CV …",
       "match_reason": "Growth — VP | Score 67/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5772658621?se=vLcnFs9y8RGiVqWJe_bADg&utm_medium=api&utm_source=6b725f98&v=FC4237296C1E8EA905C67E0A803DB75E6A0D71AE",
-      "fetch_date": "2026-06-28"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5772658621?se=GEj8N6pz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=6b725f98&v=FC4237296C1E8EA905C67E0A803DB75E6A0D71AE",
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5772634526",
@@ -467,12 +407,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "300k – 300k",
       "posted_date": "2026-06-22",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "VP Marketing / Customer Acquisition - MASSACHUSETTS (Boston), USA $275k to $300k base, PLUS $150k bonus potential & other great perks - Hybrid Work Experience (Years ) - 10-25 Remote Status - Hybrid 2 days per week from home Sponsor - No Degree - University - Bachelor's Degree/3-4 Year Degree Relocation Paid - No Recru…",
       "match_reason": "Marketing — VP | Score 67/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5772634526?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     },
     {
       "id": "adzuna_5769452922",
@@ -487,12 +427,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "66k – 66k",
       "posted_date": "2026-06-19",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "Job Description Head of Product Growth Fully Remote (US, UK, Israel, Germany, Netherlands, France, Canada) The Head of Product Growth Role Solis is partnering with a fast-growing consumer company to find a Head of Product Growth. They need someone to take over and transform their existing referral programme into a true…",
       "match_reason": "Product — Head | Score 60/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5769452922?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-06-28"
+      "fetch_date": "2026-06-29"
     }
   ]
 };
