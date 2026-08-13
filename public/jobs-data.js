@@ -1,8 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-08-12T07:26:54.832Z",
-    "today": "2026-08-12",
-    "total_jobs": 23,
+    "last_updated": "2026-08-13T07:36:54.286Z",
+    "today": "2026-08-13",
+    "total_jobs": 33,
     "sources_used": [
       "Adzuna"
     ],
@@ -27,12 +27,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "78k – 88k",
       "posted_date": "2026-08-09",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Highlights: Location: Poland, Remote Language: Fluent in English and Russian About Fundraise Up We’re Fundraise Up - a global fundraising platform built to make donating to nonprofits fast, seamless, and accessible to all. Every month, our technology powers tens of millions of dollars in donations across the globe. We …",
       "match_reason": "Operations — C-Level | Score 95/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5834803282?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5826354967",
@@ -47,32 +47,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-03",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "Team/Role Overview The Operations Core Project Lead (VP Product Owner) is responsible for supporting the ongoing enablement, enhancement, and maintenance of the LoanIQ platform within Global Wholesale Lending Operations. The role serves as a key liaison between Operations, Business, and Technology teams, ensuring the s…",
       "match_reason": "Product — VP | Score 94/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5826354967?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
-    },
-    {
-      "id": "adzuna_5834803318",
-      "title": "Head of Strategy and Product",
-      "company": "Bjak",
-      "location": "Warszawa, mazowieckie",
-      "location_type": "On-site",
-      "tier": "tier-1",
-      "score": 85,
-      "function": "Product",
-      "seniority": "Head",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-08-09",
-      "posted_display": "3 days ago",
-      "summary": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia. Today, we are expanding ways to help pe…",
-      "match_reason": "Product — Head | Score 85/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.pl/details/5834803318?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5829035199",
@@ -87,12 +67,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-05",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "As Head of Marketing – Core (Mining Products) , you will own the marketing strategy and commercial growth of GoMining's flagship products. This includes our Digital Miners , hashrate upgrades, the marketplace, and the broader mining ecosystem — the products that generate the majority of the company's revenue and serve …",
       "match_reason": "Product — Head | Score 85/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5829035199?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5826789445",
@@ -107,12 +87,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "75k – 75k",
       "posted_date": "2026-08-03",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "About Spotted Zebra At Spotted Zebra, we're building something we genuinely believe in: an AI-native end-to-end hiring platform that helps the world's leading organisations find the right people, faster and fairer than ever before. In short, we're making hiring something everyone loves again - both talent teams and can…",
       "match_reason": "Growth — Director | Score 81/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5826789445?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5837947331",
+      "title": "Chief Revenue Officer",
+      "company": "Nobul Resourcing Solutions",
+      "location": "North West London, London",
+      "location_type": "Remote",
+      "tier": "tier-3",
+      "score": 80,
+      "function": "Revenue",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "100k – 100k",
+      "posted_date": "2026-08-12",
+      "posted_display": "1 day ago",
+      "summary": "Chief Revenue Officer: Production Software Location: UK (Remote - London) Build a category-leading sales function in an industry that matters. The Opportunity The production and media industry is scaling fast. Behind every major film, TV show, and content production is complex operational machinery: budgeting, crew coo…",
+      "match_reason": "Revenue — C-Level | Score 80/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5837947331?se=Xt_ioumW8RG6OqizZxoanw&utm_medium=api&utm_source=6b725f98&v=0975027DBC2C24FE476E1D977495B7C2A4922604",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5829011815",
@@ -127,12 +127,52 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-05",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "Ready to take your career global? Make your mark at one of the biggest names in payments. We’re looking for a Head of Product, Central Europe to join our ever evolving SMB Product team within Global Payments and help shape the future of global commerce. This senior leadership role is accountable for defining and delive…",
       "match_reason": "Product — Head | Score 80/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.pl/land/ad/5829011815?se=evVOIB-W8RGlwOVR7Jqe6A&utm_medium=api&utm_source=6b725f98&v=6797F3EF1E6B2D6FF73A59BAF4B271FFBFBE9580",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.pl/land/ad/5829011815?se=rFMmrOmW8RGbzYjZac5_7g&utm_medium=api&utm_source=6b725f98&v=6797F3EF1E6B2D6FF73A59BAF4B271FFBFBE9580",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838722014",
+      "title": "Sales Director – SMB & Commercial, Benelux",
+      "company": "IFS",
+      "location": "Nunspeet, Gelderland",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 78,
+      "function": "Revenue",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "Not specified",
+      "posted_date": "2026-08-12",
+      "posted_display": "Today",
+      "summary": "Job Description Sales Director – SMB & Commercial, Benelux Fluency in Dutch and English is required for this leadership role. Nunspeet, Netherlands | Hybrid Why this role exists Ultimo builds Enterprise Asset Management (EAM) software for organisations where operational performance depends on the reliability of physica…",
+      "match_reason": "Revenue — Director | Score 78/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.nl/details/5838722014?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838730704",
+      "title": "Data Director",
+      "company": "Hackajob Ltd",
+      "location": "Manchester, Greater Manchester",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 78,
+      "function": "Product",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "100k – 100k",
+      "posted_date": "2026-08-12",
+      "posted_display": "Today",
+      "summary": "hackajob is partnering directly with MAG to hire for this role. Business Unit: Cavu Data Director Manchester / Hybrid About Cavu For airports, for partners, for people. We are Cavu. At Cavu, our purpose is to find new and better ways to make airport travel seamless and enjoyable for everybody, from the smallest ideas t…",
+      "match_reason": "Product — Director | Score 78/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/details/5838730704?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5831200076",
@@ -147,12 +187,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "94k – 94k",
       "posted_date": "2026-08-07",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "Business Unit: Cavu Data Director Manchester / Hybrid About Cavu For airports, for partners, for people. We are Cavu. At Cavu, our purpose is to find new and better ways to make airport travel seamless and enjoyable for everybody, from the smallest ideas to the biggest transformations. Every day is an opportunity to cr…",
       "match_reason": "Product — Director | Score 78/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5831200076?se=FstTHR-W8RG2xfct5NyvAw&utm_medium=api&utm_source=6b725f98&v=954C668ECA6141FC0B3D543B77A9344B8EA7CCA4",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5831200076?se=Tm7RqOmW8RGBkclIi1idWA&utm_medium=api&utm_source=6b725f98&v=954C668ECA6141FC0B3D543B77A9344B8EA7CCA4",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5832264815",
@@ -167,12 +207,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "64k – 64k",
       "posted_date": "2026-08-07",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "Sr. Director, Client Partner (London) This is a hybrid position based out of our Material London office. About Us We drive intelligent growth for ambitious businesses and leading brands. Customer understanding is more potent and drives greater value when insights go to work directly within marketing and experience prio…",
       "match_reason": "Marketing — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5832264815?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5835665683",
@@ -187,12 +227,52 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "53k – 53k",
       "posted_date": "2026-08-10",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Head of Platform & Enablement London | Hybrid Build the engine room for the next chapter of Joss Search. Most operations leadership roles are about keeping the wheels turning, but ours is about building a better machine altogether. Joss Search started life as an award-winning recruitment business. We're becoming someth…",
       "match_reason": "Operations — Head | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5835665683?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838671469",
+      "title": "Chief Marketing Officer – B2C",
+      "company": "Headliners Recruitment",
+      "location": "London, UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 77,
+      "function": "Marketing",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "180k – 240k",
+      "posted_date": "2026-08-12",
+      "posted_display": "1 day ago",
+      "summary": "Chief Marketing Officer – B2C - Perm – London (hybrid) - £180K- £240K DOE bonus Our client is a rapidly growing B2C international group with a portfolio across multiple global markets With an ambitious vision , the organisation is now seeking an exceptional Chief Marketing Officer to lead its global marketing and commu…",
+      "match_reason": "Marketing — C-Level | Score 77/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5838671469?se=VM4-t-mW8RGF8ab7BF-kiA&utm_medium=api&utm_source=6b725f98&v=27D7DFC2B60332F5B6D74F0DEB8E31969E00ED55",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838413359",
+      "title": "Chief Marketing Officer",
+      "company": "Headliners Recruitment",
+      "location": "Farringdon, Central London",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 77,
+      "function": "Marketing",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "180k – 240k",
+      "posted_date": "2026-08-12",
+      "posted_display": "1 day ago",
+      "summary": "Chief Marketing Officer – B2C - Perm – London (hybrid) - £180K- £240K DOE bonus Our client is a rapidly growing B2C international group with a portfolio across multiple global markets With an ambitious vision , the organisation is now seeking an exceptional Chief Marketing Officer to lead its global marketing and commu…",
+      "match_reason": "Marketing — C-Level | Score 77/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5838413359?se=VM4-t-mW8RGF8ab7BF-kiA&utm_medium=api&utm_source=6b725f98&v=2E7A89849AAEE86068BC21FD426ED6A2099B2C81",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5834872369",
@@ -207,12 +287,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "101k – 101k",
       "posted_date": "2026-08-09",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "MaintainX is the world's leading AI-powered maintenance and asset management platform, serving 14,000 customers including Duracell, Shell, Cintas, and Brenntag. We raised $150M in Series D funding led by Bessemer Venture Partners and Bain Capital Ventures, bringing our total funding to $254M. We were named to the Forbe…",
       "match_reason": "Operations — Director | Score 76/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5834872369?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5836637144",
@@ -227,12 +307,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-11",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "About Goelett Goelett is entering an exciting new phase of transformation as we build the central Product and Technology Hub for the S4BT Group. As part of this journey, we are redefining how product and engineering work together under one unified Product House and Value Stream framework. The following leadership roles…",
       "match_reason": "Product — Head | Score 75/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.pl/land/ad/5836637144?se=evVOIB-W8RGlwOVR7Jqe6A&utm_medium=api&utm_source=6b725f98&v=799047BED481B53DA6FFC6604D68766A9B267A78",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.pl/land/ad/5836637144?se=rFMmrOmW8RGbzYjZac5_7g&utm_medium=api&utm_source=6b725f98&v=799047BED481B53DA6FFC6604D68766A9B267A78",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5829340759",
@@ -247,12 +327,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "73k – 73k",
       "posted_date": "2026-08-05",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "Description Job Role: VP, EMEA Marketing Location: London - Hybrid, 3 days per week Who we are: We believe everyone can be better with a coach and we won’t stop until we get there. Coaching changes people’s lives. It helps them be happier and more productive in their work. It turns entire companies into more inclusive,…",
       "match_reason": "Growth — VP | Score 74/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5829340759?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5836822297",
@@ -267,12 +347,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "87k – 87k",
       "posted_date": "2026-08-11",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "HR Operations VP London Hybrid (3/2 split) £420 - £730 per day (via Umbrella) Contract up to 31 st March 2027 cer Financial are working alongside a warm and exciting international bank, who are based in London. They are seeking a HR Operations VP to work with them on a contract. Responsibilities: Lead delivery of regio…",
       "match_reason": "Operations — VP | Score 74/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5836822297?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5836779043",
@@ -287,12 +367,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "109k – 190k",
       "posted_date": "2026-08-11",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "HR Operations VP London Hybrid (3/2 split) £420 - £730 per day (via Umbrella) Contract up to 31st March 2027 cer Financial are working alongside a warm and exciting international bank, who are based in London. They are seeking a HR Operations VP to work with them on a contract. Responsibilities: Lead delivery of region…",
       "match_reason": "Operations — VP | Score 74/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5836779043?se=orykJh-W8RGNEO0SxDr7vQ&utm_medium=api&utm_source=6b725f98&v=A1C5E553E60347D188F66E92AB64943B2DE4E3F8",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5836779043?se=mF7Ds-mW8RGbzYjZac5_7g&utm_medium=api&utm_source=6b725f98&v=A1C5E553E60347D188F66E92AB64943B2DE4E3F8",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5829035201",
@@ -307,12 +387,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-05",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "As GTM Lead — GoBTC Pay, you own go-to-market for a product at the start of its life, on both sides of a two-sided market. Two words we use precisely here. Supply means merchants — the places where Bitcoin can be spent. They are also our paying customer, which makes them unusual: we acquire them like a client and count…",
       "match_reason": "Product — Head | Score 73/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5829035201?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838609389",
+      "title": "Group Chief Revenue Officer",
+      "company": "Redline Group Ltd",
+      "location": "Lincoln, Lincolnshire",
+      "location_type": "Remote",
+      "tier": "tier-3",
+      "score": 72,
+      "function": "Revenue",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "116k – 116k",
+      "posted_date": "2026-08-12",
+      "posted_display": "1 day ago",
+      "summary": "Group Chief Revenue Officer (CRO) Location: Remote - USA or UK (International Travel Required) An exciting opportunity has arisen for a Group Chief Revenue Officer (CRO) to join a global RF technology group operating across advanced antenna, microwave and RF engineering solutions for defence, aerospace, government and …",
+      "match_reason": "Revenue — C-Level | Score 72/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5838609389?se=Xt_ioumW8RG6OqizZxoanw&utm_medium=api&utm_source=6b725f98&v=A6205376522D429D340BD018015F73F111889ADE",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5833605731",
@@ -325,14 +425,14 @@ window.JOBS_DATA = {
       "function": "Revenue",
       "seniority": "Director",
       "language": "English",
-      "salary": "1k – 2k",
+      "salary": "95k – 133k",
       "posted_date": "2026-08-08",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "Job Title: EMEA – Associate Director Business Development Location: Denmark, Sweden, Germany or the Netherlands Travel: Up to 50% Working Pattern: Fully Remote The role: As Associate Director, Business Development , you will play a pivotal role in driving new business growth across a dedicated territory within the EMEA…",
       "match_reason": "Revenue — Director | Score 72/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.nl/details/5833605731?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5828794087",
@@ -347,12 +447,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "78k – 78k",
       "posted_date": "2026-08-05",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "EMEA Growth Director | Learning Consulting | Remote - UK | Open to UK based candidates only Location: Remote, from the UK Work Model: Default working hours are 9am - 5pm, Monday - Friday with Regional client travel when required (20-50% expected) The Opportunity Infopro Learning is a global leader in workforce transfor…",
       "match_reason": "Growth — Director | Score 72/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5828794087?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5829119440",
@@ -367,12 +467,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "91k – 91k",
       "posted_date": "2026-08-05",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "eCommerce Account Director | Retail Media London | Hybrid, 1-2 days per week in Central London 6-month contract | £350 per day | Likely outside IR35 Start date: ASAP We're supporting a leading global media agency looking for an experienced eCommerce Account Director to lead the planning and activation of on-retailer me…",
       "match_reason": "Ecommerce — Director | Score 70/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5829119440?se=-DoqLB-W8RGtoowal0lEmA&utm_medium=api&utm_source=6b725f98&v=60D108A94DA99E7178B55E7B873D856F91F6C9E9",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5829119440?se=LJ17uumW8RGZjegz1di2Mg&utm_medium=api&utm_source=6b725f98&v=60D108A94DA99E7178B55E7B873D856F91F6C9E9",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5831706041",
@@ -387,12 +487,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "92k – 92k",
       "posted_date": "2026-08-07",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "hackajob is collaborating with MAG (Airports Group) to connect them with exceptional professionals for this role. Business Unit: Cavu Data Director Manchester / Hybrid About Cavu For airports, for partners, for people. We are Cavu. At Cavu, our purpose is to find new and better ways to make airport travel seamless and …",
       "match_reason": "Product — Director | Score 68/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5831706041?se=FstTHR-W8RG2xfct5NyvAw&utm_medium=api&utm_source=6b725f98&v=8FCF2ED9DD9E9B64FBEF6DDB91CF8E4904C2EEB7",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5831706041?se=Tm7RqOmW8RGBkclIi1idWA&utm_medium=api&utm_source=6b725f98&v=8FCF2ED9DD9E9B64FBEF6DDB91CF8E4904C2EEB7",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5837649592",
@@ -407,12 +507,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "63k – 63k",
       "posted_date": "2026-08-12",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "DIRECTOR OF PEOPLE AND CULTURE – OXFORD ARCHAEOLOGY Join the Executive Team of a growing archaeology charity and develop a modern people function, shaping the culture and capability behind some of the UK's most significant archaeological discoveries. Salary: £80,000 - £90,000 (plus benefits, including a 17.2% pension, …",
       "match_reason": "Growth — Director | Score 68/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5837649592?se=PuqdIh-W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=6b725f98&v=E9F27885BEBCF6D4E4D6058261F33EACB1BEA126",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5837649592?se=_pf2rumW8RGBkclIi1idWA&utm_medium=api&utm_source=6b725f98&v=E9F27885BEBCF6D4E4D6058261F33EACB1BEA126",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5835747550",
@@ -427,12 +527,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "119k – 119k",
       "posted_date": "2026-08-10",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Location: London (with regional travel across EMEA) Reports to: Chief Revenue Officer Function: Sales & Account Management Direct reports: 9 Working arrangement: Hybrid – 3 days in office per week Smartstream Technologies is a leading provider of Transaction Lifecycle Management (TLM) solutions to the world's most dema…",
       "match_reason": "Revenue — Head | Score 67/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5835747550?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-12"
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5834873341",
@@ -447,12 +547,72 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "40k – 40k",
       "posted_date": "2026-08-09",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Head of Customer Support — eCommerce | GSF Car Parts [Wolverhampton / Hybrid ] · Full-time We're one of the UK's leading automotive parts retailers, and our eCommerce division is growing fast — in the UK and across Europe. We're looking for a Head of Customer Support to own the customer experience behind it all. This r…",
       "match_reason": "Ecommerce — Head | Score 67/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5834873341?se=ntwELR-W8RG2xfct5NyvAw&utm_medium=api&utm_source=6b725f98&v=2386A690924B289EF54DFB588A26DFF556EA5CB3",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5834873341?se=pMyCu-mW8RGbzYjZac5_7g&utm_medium=api&utm_source=6b725f98&v=2386A690924B289EF54DFB588A26DFF556EA5CB3",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838677399",
+      "title": "Head Of Sales",
+      "company": "LNJ Recruitment",
+      "location": "North West England, UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 65,
+      "function": "Revenue",
+      "seniority": "Head",
+      "language": "English",
+      "salary": "65k – 65k",
+      "posted_date": "2026-08-12",
+      "posted_display": "Today",
+      "summary": "Bonus Car Allowance Benefits £100,00-£140,000 Location: Midlands & North (Hybrid) Working Pattern: 37.5 hours per week, Monday to Friday Hybrid Working: 2 days per week in the office, with flexibility around which days. The Role An exciting opportunity has arisen for an experienced Sales Director to lead a high-perform…",
+      "match_reason": "Revenue — Head | Score 65/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5838677399?se=tsWBp-mW8RGWnIX1oHsR5g&utm_medium=api&utm_source=6b725f98&v=9B8F38B49767744823C008D1907A8D26383128B4",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838465226",
+      "title": "Deputy Head of Income Strategy and Growth",
+      "company": "Suffolk Mind",
+      "location": "Suffolk, Eastern England",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 65,
+      "function": "Growth",
+      "seniority": "Head",
+      "language": "English",
+      "salary": "43k – 46k",
+      "posted_date": "2026-08-12",
+      "posted_display": "1 day ago",
+      "summary": "37 hours per week /Suffolk /Flexible/hybrid working Transform Lives. Build the Future. Lead Sustainable Growth. Are you a in a strategic business development role with a passion for purpose-driven work ? Do you thrive on creating change, building high-performing teams, and developing innovative approaches to generating…",
+      "match_reason": "Growth — Head | Score 65/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/details/5838465226?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838680501",
+      "title": "Head of Elective Access",
+      "company": "Belmont Recruitment",
+      "location": "Waddington, Lincoln",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 65,
+      "function": "Operations",
+      "seniority": "Head",
+      "language": "English",
+      "salary": "100k – 100k",
+      "posted_date": "2026-08-12",
+      "posted_display": "Today",
+      "summary": "Good Afternoon, I am currently representing Lincolnshire Community Health Services NHS Trust who are offering an initial temporary contract for a period of 3-6 months with a view to be extended or offered a permanent position for the right candidate at a rate which is negotiable dependent upon experience We are looking…",
+      "match_reason": "Operations — Head | Score 65/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/details/5838680501?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-08-13"
     },
     {
       "id": "adzuna_5834878092",
@@ -467,12 +627,52 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "57k – 57k",
       "posted_date": "2026-08-09",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Walker and Sloan are working with a fast-growing performance marketing agency in Bristol, as they are looking to appoint a Head of Media Buying to lead its paid media division and support the continued scaling of a portfolio of exciting DTC and ecommerce brands Head of Media Buying UK Based | Hybrid Working - Bristol C…",
       "match_reason": "Ecommerce — Head | Score 65/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5834878092?se=ntwELR-W8RG2xfct5NyvAw&utm_medium=api&utm_source=6b725f98&v=FB2417EB5CECA7FB057E601E31F28F7120C27007",
-      "fetch_date": "2026-08-12"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5834878092?se=pMyCu-mW8RGbzYjZac5_7g&utm_medium=api&utm_source=6b725f98&v=FB2417EB5CECA7FB057E601E31F28F7120C27007",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838980842",
+      "title": "Sales Director",
+      "company": "Select Talent Group Ltd",
+      "location": "Englefield, Reading",
+      "location_type": "Remote",
+      "tier": "tier-3",
+      "score": 63,
+      "function": "Revenue",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "60k – 90k",
+      "posted_date": "2026-08-12",
+      "posted_display": "Today",
+      "summary": "Sales Director – Electronics Manufacturing Location: Remote, with regular UK travel Employment type: Permanent Reporting to: Group Sales Director Select Talent Group is delighted to be supporting a leading electronics manufacturing business in the appointment of a Sales Director. This is a senior, hands-on business dev…",
+      "match_reason": "Revenue — Director | Score 63/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/details/5838980842?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-08-13"
+    },
+    {
+      "id": "adzuna_5838977862",
+      "title": "Sales Director",
+      "company": "Nextech",
+      "location": "London, UK",
+      "location_type": "Remote",
+      "tier": "tier-3",
+      "score": 63,
+      "function": "Revenue",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "100k – 120k",
+      "posted_date": "2026-08-12",
+      "posted_display": "Today",
+      "summary": "Sales Director Industry: Group Sales Director - MSP / Managed IT Services Salary: Competitive Bonus Benefits Location: Remote The Opportunity A well-established, multi-entity group in the SME-focused IT services and Managed Services (MSP) sector is looking for a Group Sales Director to build and own its national sales …",
+      "match_reason": "Revenue — Director | Score 63/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5838977862?se=tsWBp-mW8RGWnIX1oHsR5g&utm_medium=api&utm_source=6b725f98&v=43489C4DB933BA55D1BEFEFEFDFB8331DFB180BB",
+      "fetch_date": "2026-08-13"
     }
   ]
 };
