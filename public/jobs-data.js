@@ -1,8 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-08-30T11:28:24.917Z",
-    "today": "2026-08-30",
-    "total_jobs": 25,
+    "last_updated": "2026-08-31T12:59:26.185Z",
+    "today": "2026-08-31",
+    "total_jobs": 22,
     "sources_used": [
       "Adzuna"
     ],
@@ -27,12 +27,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-28",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "WHO ARE WE Cognism is the leading provider of European B2B data and sales intelligence. Ambitious businesses of every size use our platform to discover, connect, and engage with qualified decision-makers faster and close more deals. Headquartered in London with global offices, Cognism’s contact data and contextual sign…",
       "match_reason": "Product — C-Level | Score 95/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5859861788?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5858490686",
@@ -47,12 +47,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-27",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Description Corporate title: Director, POM Product Management At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day…",
       "match_reason": "Product — Director | Score 88/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5858490686?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5851482494",
@@ -67,12 +67,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-21",
-      "posted_display": "8 days ago",
+      "posted_display": "10 days ago",
       "summary": "Homa is a global mobile game developer and publisher creating games people love. We partner with studios and internally develop games, having launched over 80 titles, reached over 2 billion downloads, and seen our game All in Hole break into the global top-50 grossing charts. These are milestones, not the finish line. …",
       "match_reason": "Product — Director | Score 88/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5851482494?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5858488147",
@@ -87,12 +87,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-27",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Fancy helping to shape the future of FinTech? We have always been innovators. In 1996 we were the first company to share exchange rate information, free of charge on the internet. Today, we are a world leading online trading group. Join us to: Help build the future of online trading Be part of a culture driven by integ…",
       "match_reason": "Product — Head | Score 87/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5858488147?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5856503063",
@@ -107,32 +107,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-26",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "Seek a new challenge in an autonomous position where your strategic thinking directly drives measurable results through AI. Arise is a globally active weight-loss app with over 8 million downloads and a 4.7 rating on the App Store. We are looking for a CMO who runs growth and monetization primarily through AI: agents, …",
       "match_reason": "Growth — Head | Score 87/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5856503063?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
-    },
-    {
-      "id": "adzuna_5849681428",
-      "title": "Chief commercial officer",
-      "company": "Seccl",
-      "location": "London, UK",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 85,
-      "function": "Product",
-      "seniority": "C-Level",
-      "language": "English",
-      "salary": "72k – 72k",
-      "posted_date": "2026-08-20",
-      "posted_display": "10 days ago",
-      "summary": "Chief commercial officer Hybrid role based in London with occasional travel to Bath, Dublin or Edinburgh as needed About us Seccl is the Octopus-owned embedded investment platform, on a mission to help more people invest, and invest well. We’re building the infrastructure behind the next generation of investing. Our te…",
-      "match_reason": "Product — C-Level | Score 85/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5849681428?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5852678138",
@@ -147,12 +127,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-22",
-      "posted_display": "8 days ago",
+      "posted_display": "9 days ago",
       "summary": "The Director, Business development will help facilitate the sales and marketing activities for the CRO Business Unit, including managing key accounts, soliciting new business, and being a brand ambassador for Indero at industry conferences and other events. Reporting to the VP, Business Development, the individual will…",
       "match_reason": "Revenue — C-Level | Score 83/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5852678138?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5854098398",
@@ -167,12 +147,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-24",
-      "posted_display": "6 days ago",
+      "posted_display": "7 days ago",
       "summary": "Position Overview We are seeking a Chief Operating Officer (COO) for overseeing the day-to-day administrative and operational functions of the business. Reporting directly to the CEO, the COO ensures the company executes its strategy efficiently, drives operational scalability, and maintains a high-performance culture …",
       "match_reason": "Operations — C-Level | Score 83/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5854098398?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5858489868",
@@ -187,12 +167,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-27",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "VP Financial Accounting Operations - HCIB Location: Krakow, Poland Contract Type: Contract Job Type: Hybrid Lead period end close and financial reporting for a global banking organisation Manage IFRS, FINREP and regulatory reporting processes Drive strategic transformation within Financial Accounting Operations Oversee…",
       "match_reason": "Operations — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5858489868?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5857730553",
@@ -207,12 +187,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-27",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Chartered Accountant (CA) or MBA qualification with 10 years post-qualification experience Proven experience in financial services within ledger close and reporting processes Strong technical knowledge of IFRS and Local GAAP standards Direct experience with IFRS and FINREP reporting (essential) Experience with statutor…",
       "match_reason": "Operations — VP | Score 80/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5857730553?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5859457567",
@@ -227,32 +207,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "76k – 76k",
       "posted_date": "2026-08-28",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Location: Remote (East Coast US or European timezone preferred) | Reports to: Ben Tyrer, VP People and Operations Laravel is the clean stack for Artisans and agents. Built on the world's most widely used PHP framework, with 80K GitHub stars and over 500 million package installs, Laravel Cloud is the fully managed platf…",
       "match_reason": "Operations — Head | Score 79/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5859457567?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
-    },
-    {
-      "id": "adzuna_5861233160",
-      "title": "Enterprise Sales Director (Remote)",
-      "company": "RainFocus",
-      "location": "London, UK",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 78,
-      "function": "Revenue",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "71k – 71k",
-      "posted_date": "2026-08-29",
-      "posted_display": "1 day ago",
-      "summary": "RainFocus, one of the most innovative software companies in the heart of Utah's Silicon Slopes, is in search of an exceptional Enterprise Sales Director. About RainFocus RainFocus cares about its employees, customers, and the world in which we live. Our rapidly-growing team serves Fortune 500 companies like Adobe, Cisc…",
-      "match_reason": "Revenue — Director | Score 78/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5861233160?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5855354341",
@@ -267,12 +227,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "77k – 77k",
       "posted_date": "2026-08-25",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "Director of Performance Marketing Location: London (Hybrid, 2-3 days per week) Salary: Competitive Bonus The Opportunity We're partnered with a high-growth digital business looking for a Director of Performance Marketing to lead customer acquisition strategy and drive the next phase of growth. Reporting into the Chief …",
       "match_reason": "CRM — Director | Score 78/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5855354341?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5855337221",
@@ -287,12 +247,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "64k – 64k",
       "posted_date": "2026-08-25",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "Chief Marketing Officer – B2C - Perm – London (hybrid) - £180K- £240K DOE bonus Our client is a rapidly growing B2C international group with a portfolio across multiple global markets With an ambitious vision , the organisation is now seeking an exceptional Chief Marketing Officer to lead its global marketing and commu…",
       "match_reason": "Marketing — C-Level | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5855337221?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5859863165",
@@ -307,12 +267,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-08-28",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Join ABC Fitness and become part of a culture that’s as ambitious as it is authentic. Let’s transform the future of fitness—together! Our Values Best Life We believe great work begins with great people. That’s why our culture is built on respect, trust, and belonging. We create an inclusive environment where every team…",
       "match_reason": "Product — Director | Score 76/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5859863165?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5859884898",
@@ -327,12 +287,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "85k – 85k",
       "posted_date": "2026-08-28",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Chief of Staff – AFRS Location: Hybrid / Flexible, aligned to AFRS operating requirements Six figure competitive salary, bonus, PMI, car/car allowance, pension – 10% About the role We are seeking an exceptional Chief of Staff to provide senior-level operational leadership, executive coordination and delivery discipline…",
       "match_reason": "Operations — C-Level | Score 75/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5859884898?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5859993033",
@@ -347,32 +307,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "960k – 1320k",
       "posted_date": "2026-08-28",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "About Us HarZa Group is a fast-growing operator of direct-to-consumer brands in health and wellness. Our flagship brand, Rejuvacare, serves more than 400,000 customers with products targeting chronic pain and mobility, including RejuvaKnee, FootRenew, RejuvaFlow and OzemPatch. We ship primarily to the United States and…",
       "match_reason": "Growth — Head | Score 73/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5859993033?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
-      "id": "adzuna_5861230319",
-      "title": "Director of Business Development, Risk Solutions",
-      "company": "Crisis24",
-      "location": "UK",
-      "location_type": "Remote",
+      "id": "adzuna_5861079882",
+      "title": "Oracle EPM Product Owner - VP Banking",
+      "company": "Huxley Associates",
+      "location": "London, UK",
+      "location_type": "Hybrid",
       "tier": "tier-2",
       "score": 72,
-      "function": "Revenue",
-      "seniority": "Director",
+      "function": "Product",
+      "seniority": "VP",
       "language": "English",
-      "salary": "83k – 83k",
+      "salary": "100k – 100k",
       "posted_date": "2026-08-29",
-      "posted_display": "1 day ago",
-      "summary": "Who We Are Looking For To support our ambitious growth objectives, Crisis24 is looking for an experienced, hungry and highly motivated Director of Business Development (Director, Risk Solutions) to join our high-performing sales team and drive new business revenue through corporate sales across the UK and Northern Euro…",
-      "match_reason": "Revenue — Director | Score 72/100",
+      "posted_display": "2 days ago",
+      "summary": "Oracle EPM Product Owner - Vice President Banking London This is a new and exclusive opportunity for a Oracle EPM Product Owner with strong knowledge of Oracle Cloud ERP for our Finance IT department to join our team. Role details Title: Oracle EPM Product Owner Technical focus: Oracle EPM, Oracle ERP (Cloud) Oracle fi…",
+      "match_reason": "Product — VP | Score 72/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5861230319?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "link": "https://www.adzuna.co.uk/jobs/details/5861079882?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5858256323",
@@ -387,32 +347,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "100k – 100k",
       "posted_date": "2026-08-27",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Oracle EPM Product Owner - Vice President Banking London This is a new and exclusive opportunity for a Oracle EPM Product Owner with strong knowledge of Oracle Cloud ERP for our Finance IT department to join our team. Role details Title: Oracle EPM Product Owner Technical focus: Oracle EPM, Oracle ERP (Cloud) Oracle fi…",
       "match_reason": "Product — VP | Score 72/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5858256323?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
-    },
-    {
-      "id": "adzuna_5858066513",
-      "title": "Oracle EPM Product Owner - VP Banking",
-      "company": "Huxley Associates",
-      "location": "London, UK",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 72,
-      "function": "Product",
-      "seniority": "VP",
-      "language": "English",
-      "salary": "100k – 100k",
-      "posted_date": "2026-08-27",
-      "posted_display": "3 days ago",
-      "summary": "Oracle EPM Product Owner - Vice President Banking London This is a new and exclusive opportunity for a Oracle EPM Product Owner with strong knowledge of Oracle Cloud ERP for our Finance IT department to join our team. Role details Title: Oracle EPM Product Owner Technical focus: Oracle EPM, Oracle ERP (Cloud) Oracle fi…",
-      "match_reason": "Product — VP | Score 72/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5858066513?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5861738765",
@@ -427,12 +367,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "50k – 50k",
       "posted_date": "2026-08-30",
-      "posted_display": "Today",
+      "posted_display": "1 day ago",
       "summary": "Non Financial Risk VP (SSV Operations Agency Lending And Treasury) Location: London, GB, E14 5HQ Brand: HSBC Area of Interest: Closing Date: Hybrid Worker Date: 28 Aug 2026 Job description If you're looking for a career that will help you stand out, join HSBC and fulfil your potential. Whether you want a career that co…",
       "match_reason": "Operations — VP | Score 72/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5861738765?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
+    },
+    {
+      "id": "adzuna_5862296461",
+      "title": "Enterprise Sales Director – Investment Analytics Solutions",
+      "company": "Confluence Technologies",
+      "location": "London, UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 70,
+      "function": "Revenue",
+      "seniority": "Director",
+      "language": "English",
+      "salary": "77k – 77k",
+      "posted_date": "2026-08-30",
+      "posted_display": "1 day ago",
+      "summary": "Location - London (Hybrid) Why Confluence? At Confluence, we’ve always been driven by a commitment to innovation, precision, and partnership in the investment data space. Our global footprint now spans multiple countries, giving our employees the opportunity to get exposure to other countries and cultures. And it stand…",
+      "match_reason": "Revenue — Director | Score 70/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/details/5862296461?utm_medium=api&utm_source=6b725f98",
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5855341677",
@@ -447,52 +407,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "67k – 67k",
       "posted_date": "2026-08-25",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "eCommerce Account Director | Retail Media London | Hybrid, 1-2 days per week in Central London 6-month contract | £350 per day | Likely outside IR35 Start date: ASAP We're supporting a leading global media agency looking for an experienced eCommerce Account Director to lead the planning and activation of on-retailer me…",
       "match_reason": "Ecommerce — Director | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5855341677?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     },
     {
-      "id": "adzuna_5861231681",
-      "title": "Managing Director, Transaction Banking Solutions – NBFI Sales",
+      "id": "adzuna_5862277989",
+      "title": "Associate Director of Product Risk & Risk Management (FTC/ Secondment)",
       "company": "Lloyds Bank",
       "location": "London, UK",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 68,
-      "function": "Revenue",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "88k – 88k",
-      "posted_date": "2026-08-29",
-      "posted_display": "1 day ago",
-      "summary": "End Date Monday 21 September 2026 Salary Range £0 - £0 We support flexible working – click here for more information on flexible working options Flexible Working Options Hybrid Working, Job Share Job Description Summary Project Atlas Job Description JOB TITLE: Managing Director, Transaction Banking Solutions – NBFI Sal…",
-      "match_reason": "Revenue — Director | Score 68/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5861231681?se=PIlC0mWk8RGcfKYe_cIpvA&utm_medium=api&utm_source=6b725f98&v=753150B027307ED878F7B565321BAFAD9D970224",
-      "fetch_date": "2026-08-30"
-    },
-    {
-      "id": "adzuna_5849717398",
-      "title": "Associate Product Director",
-      "company": "Trinity College London",
-      "location": "Blackfriars, Central London",
       "location_type": "Hybrid",
       "tier": "tier-2",
       "score": 68,
       "function": "Product",
       "seniority": "Director",
       "language": "English",
-      "salary": "59k – 59k",
-      "posted_date": "2026-08-20",
-      "posted_display": "10 days ago",
-      "summary": "Contract: 6 month fixed-term, full-time Location: London (hybrid-working) Closing Date: 1 September 2026 About the role As Associate Product Director – Innovation (Maternity Cover), you'll play a key role in ensuring the successful delivery of Trinity College London's agreed Innovation Roadmap and supporting the launch…",
+      "salary": "64k – 64k",
+      "posted_date": "2026-08-30",
+      "posted_display": "1 day ago",
+      "summary": "End Date Friday 11 September 2026 Salary Range £0 - £0 We support flexible working – click here for more information on flexible working options Flexible Working Options Hybrid Working, Job Share Job Description Summary . Job Description JOB TITLE: Associate Director of Product Risk & Risk Management (FTC/ Secondment) …",
       "match_reason": "Product — Director | Score 68/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5849717398?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5862277989?se=ujaYtjul8RGcfKYe_cIpvA&utm_medium=api&utm_source=6b725f98&v=D50558F1597FA51643EA2D547297DAE8D47A5190",
+      "fetch_date": "2026-08-31"
     },
     {
       "id": "adzuna_5861228679",
@@ -507,12 +447,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "68k – 68k",
       "posted_date": "2026-08-29",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Head of Commercial Contract: Full-time, Permanent Location: Remote within the UK, with travel to London required monthly Reports to: Chief Revenue Officer Closing date for applications: Monday 14th September We may close this advert early if we receive a high volume of suitable applications, so we encourage you to appl…",
       "match_reason": "Revenue — Head | Score 60/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5861228679?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-08-30"
+      "fetch_date": "2026-08-31"
     }
   ]
 };
