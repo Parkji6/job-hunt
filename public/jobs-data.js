@@ -1,8 +1,8 @@
 window.JOBS_DATA = {
   "metadata": {
-    "last_updated": "2026-09-21T12:15:53.765Z",
-    "today": "2026-09-21",
-    "total_jobs": 22,
+    "last_updated": "2026-09-22T11:09:05.666Z",
+    "today": "2026-09-22",
+    "total_jobs": 23,
     "sources_used": [
       "Adzuna"
     ],
@@ -27,12 +27,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-09-17",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "Head of Product - Central Europe Miejsce pracy: Warszawa Your responsibilities Define and lead the Central Europe SMB solutions strategy across Joint Venture partnerships, translating customer needs, market insights, competitive trends, and platform opportunities into a clear 3 to 5-year product vision that supports su…",
       "match_reason": "Product — Head | Score 90/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5888163780?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
+    },
+    {
+      "id": "adzuna_5892954936",
+      "title": "Chief of Staff",
+      "company": "Addition",
+      "location": "London, UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 87,
+      "function": "Operations",
+      "seniority": "C-Level",
+      "language": "English",
+      "salary": "140k – 140k",
+      "posted_date": "2026-09-21",
+      "posted_display": "1 day ago",
+      "summary": "Chief of Staff – Strategy & Transformation Join the institutional arm of a global fintech business operating at significant scale across international capital markets. This is a high-impact role working closely with the CEO to turn strategy into execution, accelerate growth and shape how the business scales. Role Overv…",
+      "match_reason": "Operations — C-Level | Score 87/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5892954936?se=gvB2-3W28RGfhOPTZ0m7EQ&utm_medium=api&utm_source=6b725f98&v=29C7A315D6585BA1F5B163078517BB7783F2E573",
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5889640889",
@@ -47,12 +67,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-09-18",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Our Krakow team is focused on digital marketing advertising, working on behalf of a world leader in online advertising. Our team works with existing customers to optimize their advertising campaigns. We use our sales skills and product knowledge to support the advertisers reach their goals in a way that is trustworthy,…",
       "match_reason": "Revenue — Director | Score 86/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5889640889?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5881143838",
@@ -67,12 +87,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "84k – 84k",
       "posted_date": "2026-09-12",
-      "posted_display": "9 days ago",
+      "posted_display": "10 days ago",
       "summary": "WHO ARE WE Cognism is the leading provider of European B2B data and sales intelligence. Ambitious businesses of every size use our platform to discover, connect, and engage with qualified decision-makers faster and close more deals. Headquartered in London with global offices, Cognism’s contact data and contextual sign…",
       "match_reason": "Revenue — VP | Score 84/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5881143838?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5889647465",
@@ -87,12 +107,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-09-18",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Head of Product based in Poland. This is a senior product leadership opportunity for an experienced B2B SaaS product leader joining a fast-growing, AI-native technology business. You will ow…",
       "match_reason": "Product — Head | Score 83/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5889647465?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5882109726",
@@ -107,12 +127,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-09-13",
-      "posted_display": "8 days ago",
+      "posted_display": "9 days ago",
       "summary": "At TechBiz Global, we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a VP/AVP – Business Development to join one of our clients ' teams. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the perfect fit for you. This role …",
       "match_reason": "Revenue — VP | Score 82/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.pl/details/5882109726?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5889510944",
@@ -127,12 +147,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-09-18",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Director of Growth Marketing Paris Hybrid / Full-time Fledge We are a boutique Talent search firm connecting exceptional Talent with the most innovative companies in the AI and software development industries across EMEA. Our clients are among companies with innovative products that have a positive impact on our societ…",
       "match_reason": "Revenue — Director | Score 80/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.fr/details/5889510944?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5887014977",
@@ -147,12 +167,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "Not specified",
       "posted_date": "2026-09-17",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "The deadline for applications is Tuesday, September 29, 2026. Please note that the application process requires candidates to respond to a set of questions in addition to uploading their resume. The position is remote and must be based in continental Europe or Africa to best align with Central European Time. We will re…",
       "match_reason": "Operations — C-Level | Score 79/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.nl/details/5887014977?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5887461721",
@@ -167,32 +187,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "64k – 64k",
       "posted_date": "2026-09-17",
-      "posted_display": "4 days ago",
+      "posted_display": "5 days ago",
       "summary": "Head of Analytics | Last Mile | Hybrid Working | London OR Hatfield HQ Introduction We are Ocado Group, and we're bringing world-class automation to online grocery. Our Ocado Smart Platform (OSP) combines cutting-edge robotics, AI, and IoT within our advanced CFCs (Customer Fulfilment Centres). We've mastered the singl…",
       "match_reason": "Product — Head | Score 77/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5887461721?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
-    },
-    {
-      "id": "adzuna_5889569850",
-      "title": "Director of Business Operations",
-      "company": "MUI",
-      "location": "France",
-      "location_type": "Remote",
-      "tier": "tier-3",
-      "score": 73,
-      "function": "Operations",
-      "seniority": "Director",
-      "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-09-18",
-      "posted_display": "3 days ago",
-      "summary": "Details of the role Location : Remote (preference for UTC-6 to UTC5). Type of work : Full-time (contractor or employee depending on circumstances ). Level : IC5 Staff and above . We're a remote company, operating mostly asynchronously. The company MUI's story began in 2014 with Material UI, the most successful React im…",
-      "match_reason": "Operations — Director | Score 73/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.fr/details/5889569850?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5886325939",
@@ -207,12 +207,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "60k – 80k",
       "posted_date": "2026-09-16",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "Paid Media Director | UK (remote) A fast-growing ecommerce-focused digital agency is hiring a Paid Media Director to lead strategy across a portfolio of ambitious consumer brands. This is a senior client-facing role for someone who combines deep platform expertise with commercial thinking and exceptional communication …",
       "match_reason": "Ecommerce — Director | Score 73/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5886325939?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5890392268",
@@ -227,12 +227,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "48k – 48k",
       "posted_date": "2026-09-19",
-      "posted_display": "2 days ago",
+      "posted_display": "3 days ago",
       "summary": "Description Location: Hybrid - 3 days per week at DCE (Dnata City East) occasionally VHQ Hours: 37.5 hours per week, Monday to Friday Contract: Permanent Salary: Competitive Closing date: 25th September 2026 In a nutshell At Virgin Atlantic, we believe everyone can take on the world. As we continue our journey to becom…",
       "match_reason": "Revenue — VP | Score 72/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5890392268?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5891473660",
@@ -247,12 +247,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "100k – 100k",
       "posted_date": "2026-09-20",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Oracle EPM Product Owner - Vice President Banking London This is a new and exclusive opportunity for a Oracle EPM Product Owner with strong knowledge of Oracle Cloud ERP for our Finance IT department to join our team. Role details Title: Oracle EPM Product Owner Technical focus: Oracle EPM, Oracle ERP (Cloud) Oracle fi…",
       "match_reason": "Product — VP | Score 72/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5891473660?se=2PPhELa18RGhpt24NKnzbw&utm_medium=api&utm_source=6b725f98&v=8B728E73F5D6F55F77FE5F072C271BEB10A358A1",
-      "fetch_date": "2026-09-21"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5891473660?se=GKTm8XW28RGvd94b4pT8Lw&utm_medium=api&utm_source=6b725f98&v=8B728E73F5D6F55F77FE5F072C271BEB10A358A1",
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5883471398",
@@ -267,32 +267,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "83k – 83k",
       "posted_date": "2026-09-14",
-      "posted_display": "7 days ago",
+      "posted_display": "8 days ago",
       "summary": "Job Title: Director, GTM Strategy & Growth Location: London, UK Work type: Hybrid (3 days in office) Role Overview The Director, GTM Strategy & Growth defines where and how the company competes to deliver scalable, capital-efficient growth. Reporting to the VP , Global Revenue Operations & GTM, this role architects the…",
       "match_reason": "Revenue — Director | Score 70/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5883471398?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
-      "id": "adzuna_5889571428",
-      "title": "Chief of Staff",
-      "company": "Kairos Vista",
-      "location": "Paris, Ile-de-France",
-      "location_type": "Remote",
-      "tier": "tier-3",
-      "score": 70,
-      "function": "Operations",
-      "seniority": "C-Level",
+      "id": "adzuna_5893705816",
+      "title": "Sales Director - Passive Fire Protection",
+      "company": "Howells Solutions Limited",
+      "location": "Basildon, Essex",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 68,
+      "function": "Revenue",
+      "seniority": "Director",
       "language": "English",
-      "salary": "Not specified",
-      "posted_date": "2026-09-18",
-      "posted_display": "3 days ago",
-      "summary": "Location: Paris or Remote Start Date: September Experience Level: Recent engineering graduate with a business degree Industry: Private Equity We are hiring a high-EQ, execution-oriented Chief of Staff to support the Managing Partners across investment sourcing, internal operations, and portfolio oversight. You’ll serve…",
-      "match_reason": "Operations — C-Level | Score 70/100",
+      "salary": "80k – 80k",
+      "posted_date": "2026-09-22",
+      "posted_display": "Today",
+      "summary": "Job Title: Sales Director Location: Essex / Hybrid Salary: Competitive, dependent on experience Package: Car allowance/company car bonus benefits About the Role We are currently recruiting for an experienced Sales Director to join a leading Passive Fire Protection contractor. This is a senior leadership position, respo…",
+      "match_reason": "Revenue — Director | Score 68/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.fr/details/5889571428?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5893705816?se=8FxJ73W28RGfhOPTZ0m7EQ&utm_medium=api&utm_source=6b725f98&v=CB5AF1765EC8AC9F568B6F6545A49445755FC08D",
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5889019087",
@@ -307,12 +307,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "65k – 65k",
       "posted_date": "2026-09-18",
-      "posted_display": "3 days ago",
+      "posted_display": "4 days ago",
       "summary": "Team – Marketing Leadership Team Working Pattern - Hybrid – 2 days per week in the Vitality London Office. Full time, 37.5 hours per week. We are happy to discuss flexible working! Top 3 skills needed for this role Experience managing a diverse brand portfolio across geographies Experience building a brand across a div…",
       "match_reason": "Marketing — Director | Score 68/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5889019087?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5886641627",
@@ -327,32 +327,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "100k – 100k",
       "posted_date": "2026-09-16",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "About The Role Team Marketing Leadership Team Working Pattern - Hybrid 2days per week in the Vitality London Office.Full time, 37.5 hours per week. We are happy to discuss flexible working! Top 3 skills needed for this role Experience managing a diverse brand portfolio across geographies Experience building a brand acr…",
       "match_reason": "Marketing — Director | Score 68/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5886641627?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
-    },
-    {
-      "id": "adzuna_5879887293",
-      "title": "Head of Platforms",
-      "company": "Ordnance Survey",
-      "location": "Southampton, Hampshire",
-      "location_type": "Hybrid",
-      "tier": "tier-2",
-      "score": 67,
-      "function": "Product",
-      "seniority": "Head",
-      "language": "English",
-      "salary": "100k – 100k",
-      "posted_date": "2026-09-11",
-      "posted_display": "10 days ago",
-      "summary": "Head of Platforms Full Time Salary c£100k (depending on experience) Southampton Hybrid working (4 days in office) Who we are We are Ordnance Survey, Great Britain’s national mapping service and a global leader in geospatial data and technology. For over 230 years, our data has helped governments, businesses and communi…",
-      "match_reason": "Product — Head | Score 67/100",
-      "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/details/5879887293?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5891555785",
@@ -367,15 +347,15 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "53k – 53k",
       "posted_date": "2026-09-20",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Head of First Line Controls Location: United Kingdom Contract Type: Permanent - Hybrid or Remote About the Role We are seeking an experienced and strategic leader to join our Growth Markets team as Head of First Line Controls. This is a pivotal role, ensuring that our customer, sales, service, and complaints management…",
       "match_reason": "Growth — Head | Score 67/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5891555785?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
-      "id": "adzuna_5892655571",
+      "id": "adzuna_5893791701",
       "title": "OFSTED Head of Partnerships",
       "company": "Brook Street",
       "location": "Birmingham, West Midlands",
@@ -386,13 +366,33 @@ window.JOBS_DATA = {
       "seniority": "Head",
       "language": "English",
       "salary": "70k – 70k",
-      "posted_date": "2026-09-21",
+      "posted_date": "2026-09-22",
       "posted_display": "Today",
       "summary": "OFSTED Head of Partnerships - Growth, New Business & Strategic Relationships Location: (Hybrid Working with Extensive Travel) Salary: Up to £70,000 per annum Contract: Full-Time, Permanent An exciting opportunity has arisen for an experienced and commercially driven Head of Partnerships to lead strategic growth across …",
       "match_reason": "Growth — Head | Score 65/100",
       "source": "Adzuna",
-      "link": "https://www.adzuna.co.uk/jobs/land/ad/5892655571?se=Iq8fHra18RGmo_gkoqdFBQ&utm_medium=api&utm_source=6b725f98&v=9D831F7B729C62453A2DEF6CAF5060042C8D1501",
-      "fetch_date": "2026-09-21"
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5893791701?se=3HVj-HW28RGfhOPTZ0m7EQ&utm_medium=api&utm_source=6b725f98&v=BCCEEF98513794D3DB792FA103FBE925BA6C7FCF",
+      "fetch_date": "2026-09-22"
+    },
+    {
+      "id": "adzuna_5892954675",
+      "title": "Head of Growth - Growth Equity Fundraising",
+      "company": "Inventum Group",
+      "location": "London, UK",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 65,
+      "function": "Growth",
+      "seniority": "Head",
+      "language": "English",
+      "salary": "120k – 150k",
+      "posted_date": "2026-09-21",
+      "posted_display": "1 day ago",
+      "summary": "Head of Growth - Growth Equity Fundraising London | Hybrid/Flexible | Senior Leadership Opportunity | Route to Equity Partnership We are partnering with a fast-growing, London-based corporate finance and fundraising advisory firm to appoint a Head of Growth to lead and build its Growth Equity fundraising practice. This…",
+      "match_reason": "Growth — Head | Score 65/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5892954675?se=3HVj-HW28RGfhOPTZ0m7EQ&utm_medium=api&utm_source=6b725f98&v=49F3EE864929374A11CE919EF4DE9464E70ED3F9",
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5891219235",
@@ -407,12 +407,32 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "51k – 51k",
       "posted_date": "2026-09-20",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Head of Transactional Credit Location: London, GB, EC2A 1BR Brand: HSBC Innovation Banking Area of Interest: Commercial Banking Closing Date: Hybrid Worker Date: 4 Sept 2026 Job description Who is HSBC Innovation Banking? HSBC Innovation Banking is the power behind the UK's forward-thinkers, future-makers, and leap-tak…",
       "match_reason": "Growth — Head | Score 65/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5891219235?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
+    },
+    {
+      "id": "adzuna_5893054919",
+      "title": "Head of Operational Finance",
+      "company": "FCDO Services",
+      "location": "Wolverton Mill, Milton Keynes",
+      "location_type": "Hybrid",
+      "tier": "tier-2",
+      "score": 65,
+      "function": "Operations",
+      "seniority": "Head",
+      "language": "English",
+      "salary": "75k – 82k",
+      "posted_date": "2026-09-21",
+      "posted_display": "1 day ago",
+      "summary": "Head of Operational Finance Salary: £75,055 - £82,400 plus a location allowance of £1,750 and excellent benefits Contract type: Permanent Working pattern: Full-time Location: Based in Hanslope Park, Milton Keynes with the flexibility of hybrid working depending on business need Free shuttle bus is available between cen…",
+      "match_reason": "Operations — Head | Score 65/100",
+      "source": "Adzuna",
+      "link": "https://www.adzuna.co.uk/jobs/land/ad/5893054919?se=tBt2-XW28RGVZJdJjupeeg&utm_medium=api&utm_source=6b725f98&v=6D9AC9E50E9FBCC8E792C0731D7B7C7FB77931A5",
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5886401000",
@@ -427,12 +447,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "200k – 260k",
       "posted_date": "2026-09-16",
-      "posted_display": "5 days ago",
+      "posted_display": "6 days ago",
       "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Director, Drug Product based in Netherlands. This is a senior, fully remote leadership opportunity focused on advancing small molecule drug product development across the full development li…",
       "match_reason": "Product — Director | Score 63/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.nl/details/5886401000?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     },
     {
       "id": "adzuna_5891397109",
@@ -447,12 +467,12 @@ window.JOBS_DATA = {
       "language": "English",
       "salary": "66k – 66k",
       "posted_date": "2026-09-20",
-      "posted_display": "1 day ago",
+      "posted_display": "2 days ago",
       "summary": "Hours: 35 hours, Monday - Friday. Remote based role with frequent travel. You will ideally be based in, or willing to travel to, the Glasgow region. Closing Date: Fri, 31 Jul 2026 Skipton Business Finance is excited to be recruiting for a Regional Sales Director to drive the growth of our Invoice Finance and Asset-Base…",
       "match_reason": "Growth — Director | Score 63/100",
       "source": "Adzuna",
       "link": "https://www.adzuna.co.uk/jobs/details/5891397109?utm_medium=api&utm_source=6b725f98",
-      "fetch_date": "2026-09-21"
+      "fetch_date": "2026-09-22"
     }
   ]
 };
